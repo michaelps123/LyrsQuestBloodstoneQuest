@@ -1,113 +1,1711 @@
-# Lyra's Quest Notes
+![](_page_0_Picture_0.jpeg)
 
-## Summary
-This is a Sundered Isles TTRP Steampunk Pirate adventure.
-- Captain Lyra Blackwood(Sarah), ruthless Captian of "The Keres" is driven to reclaim the Bloodstone taken from her that contains pieces of her soul forsaking all else. It is a secret she keeps from everyone, but her driving motivation  
-- Inventor Aurora Wynter(Alexia) wants to liberate herself from the ephemeral madness she is plagued with and liberate everyone from the fates imposed by the gods. 
-- Swashbuckling Kieran Darkshadow(Mike) must live with his decision to take cursed tattoos that provide superhuman powers, but at what price?
-Can they learn to work together? Can they survive together? What other mysteries and challenges await them; the Dread Court, the undead Horrors that walk the land, or the Monsters that roam freely - both great and small.
-The three of them are on a journey together dealing with personal challenges and demons - but maybe they are all tied together?
+Design & Writing by Adrian Lopez Sanjuan.
 
-##########################
-## World Truths
-### SUNDERING:  How did the isles earn their name?
-- Strange technologies unleashed a reality-fracturing wave of cursed energy, forever reshaping the isles. 
-- An ambitious few dabbled in ancient secrets, and in doing so, broke the bonds of reality. Strange energies flowed into our world, allowing uncanny phenomena to take hold. Science and magic took new forms. People and creatures of other realms were cast into our own like jetsam in a turbulent tide. The isles are forever altered by the curse of these chaotic realities.
-- Quest Starter: An explorer brings news. They’ve located what they say is a nexus of chaotic energy. If it could be deactivated, the isles might find some measure of peace. Which power or foe seeks to harness this power to their own ends?
+Editing by Noelia Garcia Novas.
 
-### RELICS:  What remains of lost or fallen people?
-- Two centuries ago, a powerful empire dared to claim these isles as their own. Ruined places are all that remain to mark their hubris. 
-- The tattered banners of the fallen empire lie amid ravaged fortresses, wrecked ships, and abandoned cities. In some places, nature reclaimed these sites. In others, people return to build anew upon the graves of these former invaders. Meanwhile, scavengers—like gulls picking at the bones of dead fish—scour the remnants in search of plunder. 
-- Quest Starter: The emperor wore a crown adorned with two gems of unsurpassed size and quality: a blue diamond to honor Wraith, and a fiery ruby to represent Cinder. The resting place of the empe
+Most of the art by dead people, remnants of another time long forgotten by mortals. Additional art by Henrik Karppinen.
 
-### MODERN ERA:  What is the state of technology?
-- It is an age of wonders.
-- Some have wielded ancient secrets and extraordinary science to power vessels, weapons, and other machines. Their ships are fitted with energized sails that augment the powers of wind and storm. Their cannons unleash volleys of infernal energies. A few commanders even count iron automatons, given life by improbable technologies, among their crew. Resisting these wonders is like casting a stone again
+Lichdom © 2022 by Adrian Lopez Sanjuan is licensed under CC BY-SA 4.0. You are free to share and adapt this material as long as you give attribution and use the same license.
 
-### IRON VOWS:  What is the significance of iron and sworn vows?
-- Since the distant time when iron was first hammered into form, seafaring folk of this world carried iron bondstones as sacred keepsakes.
-- Each bondstone is unique—a relic of kin and culture—passed from one generation to the next. They are said to connect the soul of their keeper to their homeland or loved ones as if by an invisible thread. Thus, if lost at sea, our spirit may return home rather than remain entombed in the remorseless depths. We swear our vows upon bondstones as promises that follow us to our death—and beyond. But bondstones can also embody the curses of lost lives and forsaken vows, and bearing that weight can make them feel as heavy as a ship’s anchor.
-- Quest Starter: A merciless and powerful raider wears the bondstones of their victims as trophies. One of those totems is rightfully yours. To whom did it previously belong?
+![](_page_2_Picture_0.jpeg)
 
-### NAVIGATION:  How are people and places connected?
-- We rely on the ancient traditions and knowledge of the Starmarked to navigate these perilous seas.
-- The Starmarked have an uncanny sense of wind and tide, and bear the history of their travels as beautiful and intricate tattoos—etched in phosphorescent ink. Some of the places and passages pioneered by the Starmarked are now common knowledge, inscribed in charts and traveled widely. Others are coveted secrets, or lost to time and strife. The skills of the Starmarked make them highly valued as ship navigators, and some seek to exploit them to their own ends- Quest Starter: In recent years, many Starmarked have not returned from expeditions into a remote area of the isles. Is there someone—or something—that does not want to be found? 
+Lichdom has been inspired by many hours reading Sword and Sorcery, such as the stories of Conan and Elric, the amazing drawings of talented artists, such as "Sorcerer" by Frank Frazetta, and playing many different fantasy tabletop RPGs.
 
-### EMPIRES:  How great is the threat of colonization and conquest?
-- Imperial forces vie for dominion over the Sundered Isles.
-- Imperial colonization and exploitation is a creeping tide that threatens to engulf the isles. Colonial governors oversee ever-expanding settlements, while powerful trade companies control key trade routes and resources. Imperial agents conduct missions of subterfuge and assassination. Treaties between the empires are forged and broken on a whim, and mariners can never be certain of what flag will fly over a port from one day to the next.
-- Quest Starter: Envoys and aristocrats gather for a gala at a governor’s manor house, where a priceless object will be on display as a demonstration of the governor’s power and wealth. If a clever thief were to abscond with that item, it would undermine the governor and foment suspicion among the attendees. What is this object?
-	
-### PIRACY:  What influence do pirates wield?
-- A burgeoning pirate nation wields great influence.
-- The marauder clans sail under the command of the Dread Court, a conclave of eight veteran pirates whose shrewd tactics positioned this nation of cutthroats as a rising power. Once each year, the pirate fleets gather at a port called Flotsam—an artificial island built from the husks of captured and ruined ships—to pay homage to the Court and make plans. 
-- Quest Starter: There are schisms within the Dread Court. An assassination has tipped the latest gathering into chaos and threatens the future of this burgeoning power. Will you work to restore the alliance, or use the mayhem to your own advantage?
+I hope to do them justice.
 
-### RELIGION:  What is the role of faith?
-- The gods enact their will through manifestations and miracles.
-- We chronicle the visitations of the gods in our histories and decipher their enigmatic purpose through sacred rites. In times of crisis, their earthly avatars have guided us through the upheaval. For many, faith in these gods offers meaning and fulfillment. For others, belief is a cudgel used by tyrannical leaders to divide or control us. For this reason, some people and cultures disavow the gods to follow a different path.
-- Quest Starter: You bear the mark of a god. The priests declare this as a sign you are chosen to fulfill a destiny. Do you accept this fate, and swear to see it through, or are you determined to see it undone? What force opposes you?
-
-### MAGIC:  What is the impact of supernatural forces?
-- Magic is an ever-present, elemental force. 
-- Magic is as constant as the winds and tides. Talented mystics exploit these energies to shape natural forces, divine the past and the future, and cast boons and curses. A few can even breathe unnatural life into the dead. Many mystics join guilds or serve under mentors to hone their craft, while others make do with raw, untrained talent. In spite of their uncanny nature, mystics are often hired as aides for powerful leaders, or to help guide ships on perilous voyages. But as the winds and tides are fickle, so is magic, and some fall prey to the dark curse of these forces. 
-- Quest Starter: Someone you love is corrupted by cursed powers, and is set on a destructive course of vengeance. What caused their fall? Do you seek to save them or defeat them?
-
-### BEASTS:  What is the nature of extraordinary creatures?
-- Here, there be monsters.
-- We are trespassers in a cursed realm of beasts. Monstrous lizards stalk the inland wilds. Flying reptiles with wings the size of topsails dwell in cliffside nests. Giant sharks and serpents cruise the coastal waters in search of prey. The much-feared Kraken, larger than the greatest warship, lurks in fathomless depths. And some ancient beasts are too monstrous, too horrible, for even our worst imaginings.
-- Quest Starter: Tales tell of the means of forming a bond with the mightiest of the world’s beasts, the Kraken. Many have undertaken this quest, but none have succeeded. What must you accomplish to gain an accord with the Kraken, and why would you face this trial?
-
-### HORRORS:  What dreadful forces haunt the Sundered Isles?
-- The damned and the dead are a plague upon the isles.
-- We live in accursed times. The drowned and the buried do not rest. Tortured spirits hunt for retribution. Uncounted islands are blighted by dark forces. Cities and villages lie abandoned and forsaken, lost to a malevolent tide. We keep watch, craft wards, and offer prayers to keep the horrors at bay, but it is no use. They are coming.
-- Quest Starter: For generations, an infamous ghost fleet has haunted these seas, sending countless mariners to their doom. Why do you now seek to form an alliance with the cursed commander of this fleet? 
-
-##########################
-## Main Character
-### Lyra Blackwood
-- Lyra is the captain of the ship "The Keres"
-- Lyra wears a fake Bloodstone and is searching for the pirate who stole her original one when she was younger.
-- Lyra is driven by the desire to reclaim her Bloodstone and restore balance to her life
-- Lyra comes from a long line of famous pirates, The sea flows through her veins. 
-- Lyra as a young woman, her father's ship was attacked by a rival. The rival pillaged the ship and left everyone for dead and took her bloodstone. without the bloodstone - she feels empty, dead inside - the ache gnawing at her. She is not so blind that it is all she can think about, but the ache is always there, eating away at any joy, any success she may have.
-- Lyra's known last name and fierce reputation, eventually caused the Dread Court to invite her to an open seat. In an unheard move, she rejected the offer without explanation. She is only dedicated to retrieving her Bloodstone.
-- Lyra's ship "The Keres" is a link to her past. It is actually her father's ship rebuilt. Lyra spent a fortune hiring Aurora to figure out how to have it raised from the sea floor, reconstructed and restored. Many would consider the ship cursed for having been sunk once, but Lyra is desperate for any links to her past. Generations of her family's blood are soaked into the wood that makes up the ship. Only she and Aurora know the true history of "The Keres". 
-- Lyra is only truly happy setting sail, catching the wind, and going wherever she wants next. She is a ship captain in her bones.
-
-### Aurora Wynter 
-- Aurora is a genius inventor and a rebel against divine forces.
-- Aurora's parents held strict adherence to a sect that emphasized the powerlessness of humanity against the whims of the gods, fostering a culture of fatalism and resignation. 
-- Aurora and her brother had the same curse that caused temporary bouts of madness. Her parents saw this as a mark of the gods and refused to help them or interfere when the madness took hold. 
-- Aurora's brother eventually killed himself, unable to withstand the mental anguish after years of the madness. This event resulted in Aurora running away from home, leaving her family and people when she was young. 
-- Aurora was found close to death by a wandering band of inventors in the desert. The wandering band was called the Xenuu after some fabled inventor of the past that started them. They nursed her back to health and recognized her intelligence and invited her to join them. She stayed with them many years until the group ran accross a raider band that killed most of them and the survivors of the Xenuu group parted ways and scattered across the kingdoms.  
-- Aurora swore an Iron Vow to eradicate religion and defeat or punish the gods for their fickle nature. 
-- Aurora despises all religions and those that bow to them.
-- Aurora has a prosthetic left hand that she built for herself. In one of her fits of madness, she cut off her left hand believing at the time that it was possessed.
-- Aurora has a soft spot for self-destructive people who seem consumed by inner madness or compulsiveness.
-- Aurora met Lyra when Lyra wanted to hire someone inventive enough to raise Lyra's dead father's ship from where it was sunken. She has worked for Lyra ever since then. 
-
-### Kieran Darkshadow
-- Kieran is a swashbuckling man of mystery and a criminal wanted in almost every land known.
-- Kieran is cunning and ruthless. Lyra likes that since he seldom fails.
-- Kieran's existence becomes a cycle of excess and self-destruction. He uses his powers to pull off daring heists and escape impossible odds, but each victory leaves him weaker and more broken. His addiction spirals out of control, fueled by the agony of his transformations and the crushing guilt of his failures. As the shadows close in around him, Kieran realizes too late that the price of his ambition is higher than he ever imagined
-- Kieran was born into a small village tribe in the far south islands of Driftmorrow. When he was very young, the village was been taken by slavers. He was young and strong and fierce and was put into the fighting pits for several years. While there, he eventually met a shaman from a strange land who knew the craft of Starmarked skin writing. From him, Kieran obtained tattoos of power to heal, purge his body of poisons, increase endurance, etc. At first, it was to survive the pits, but as his skill and fame grew in the pits, so did the attention on him. A wealthy landowner named Lady Zira purchased him, his sister, and the shaman to work for her. Lady Zira at first just used him for sport in the pits and for her pleasures, but later came to understand his potential. She had him educated and trained him for other things; seduction, spycraft, and assassination. As his needs changed, so did his requests to the shaman. More tattoos for things like; more strange powers, and night vision. Each tattoo took a toll on his psyche and each use of them drove him to find ways to numb the pain and the unspeakable feelings it left him with. 
-- Kieran eventually escaped this situation and blazed a trail through the known lands seeking to escape his self-inflicted curse. His sister, he vows to one day liberate her but knows that returning to lands where Lady Zira rules would mean her death.
-##########################
-
-## The Keres
-- The Keres is a steampunk sailing ship
-- Before the ship was pulled from the sea floor and rebuilt as The Keres, its original design was more of a classic Xebec style sailing ship.
-- When Aurora rebuilt the ship for Lyra, she modified it heavily, and it is now a strange cross between a Xebex and Brigantine of Aurora's design including some steampunk elements that she designed to increase speed and strengthen the hull.
-- Lyra, so happy with Aurora's design changes, kept Aurora hired after the initial work was done. Aurora is now Lyra's official ship designer, allowing her to continue to make improvements regularly. These cost Lyra a fortune, but the changes always pay off.
+Lichdom features mature themes at its core, as vile sorcery thrives in tragedy and egotism, but the darkest experiences will be provided by your imagination. Sit down, take a deep breath, and prepare to explore your own mind and fears as you experience the life of a doomed sorcerer beyond our mundane reality.
 
 
-## Crew of "The Keres":
-- Quartermaster: Reginald Pembroke III "Stingray", Sickly
-- Carpenter, Jasper Stone, "Nine Finger", Accent
-- Gunner,  Victor LaGrange "Sharktooth", Cynical
-- Surgeon, Astrid Ripley Mae Ivers "Croaker", Rural
-- Cook, Lyana Vaaz "Castoff", unkempt
-- Musician,  Crassus Bane "Hound", Reckless
-- Navigator. Fitz Burke "Scupper", Ironsworn
-##########################
+## Contents
+- Chapter I - Introduction ([[#Reject Death Embrace Power]])
+- Chapter II - Rules ([[#The Laws of the Cosmos]])
+    - I. What you need to play ([[#The Tools of Powerful Sorcery]])
+    - II. Core rules and attributes ([[#The Descend into Darkness]])
+    - III. Using the deck ([[#A Desperate Race Against Time]])
+    - IV. Card rules ([[#The Genesis of All Realities]])
+        - a. Truths and the Lichdom Ritual ([[#The Genesis of All Realities]])
+        - b. Narrative Events ([[#Narrative Events, Cards Numbered 2 to 5]])
+        - c. Scheming and Scrying ([[#Scheming and Scrying, Cards Numbered 6]])
+        - d. Adversity Events ([[#Adversity Events, Cards Numbered 7 to 9]])
+        - e. Plots and Curses ([[#Plots and Curses, Cards Numbered 10]])
+        - f. Companions ([[#Companions - Jack Cards]])
+        - g. Influence ([[#Influence - Queen Cards]])
+        - h. Catastrophes ([[#Catastrophes - King Cards]])
+    - V. Modes of play ([[#Many Different Paths, One True Goal]])
+        - a. Story Mode ([[#Story Mode]])
+        - b. Challenge Mode ([[#Challenge Mode]])
+        - c. Nemesis Mode ([[#Nemesis Mode]])
+- Chapter III - World creation ([[#Perilous Lands]])
+    - I. Phase 1 ([[#A Past Long Forgotten by Mortals]])
+        - a. Creation Myth ([[#Creation Myth]])
+        - b. The Lay of the Land ([[#The Lay of the Land]])
+        - II. Phase 2 ([[#The Perils of our Ancestors]])
+            - a. Ancient Denizens ([[#Ancient Denizens]])
+            - b. Cataclysm ([[#Cataclysm]])
+        - III. Phase 3 ([[#The Present Struggle for Dominance]])
+            - a. Cultural Dominance ([[#Cultural Dominance]])
+            - b. Nature of Gods and Arcane ([[#Nature of Gods and Arcane]])
+- Chapter IV - Character creation ([[#Seeds of Ambition]])  
+    - I. Character questions ([[#The Rotten Seeds of Ambition]])
+    - II. Marks of corruption ([[#Marks of Doom and Inevitable Ruin]])
+- Chapter V - Card events ([[#The Path Towards Immortality]])  
+    - I. Hearts - Mundane Social Events  ([[#Hearts Mundane Social]])
+    - II. Diamonds - Mundane Violent Events  ([[#Diamonds Mundane Violent]])
+    - III. Clubs - Arcane Research Events  ([[#Clubs Arcane Research]])
+    - IV. Spades - Arcane Unnatural Events ([[#Spades Arcane Unnatural]])
+- Chapter VI - Character sheet & summary rules ([[#A Trail of Ink]])
+
+
+## Reject Death Embrace Power
+Time passes inexorably. Ages come and go, empires rise and fall, knowledge is found and lost, kings are celebrated and then forgotten, war and plague ravage the lives of many while a few enjoy the most exquisite pleasures... for a time.
+
+
+##### **Everybody dies.**
+But not you. You are called to survive them all and untangle the most well hidden secrets of the cosmos, even if the price is beyond what any other mortal is willing to pay.
+
+
+##### **You are called to lichdom.**
+Lichdom is a solo roleplaying game (RPG) about the ambitious journey of a sorcerer towards immortality, about the careful research to find lost knowledge in crumbling tombs and half buried cities, about overcoming the deathly perils that plague the world by sacrificing your own self, and about finding a way to keep your soul tied to this world at all costs before death comes knocking on your door.
+
+##### **Your time is running out.**
+
+![](_page_7_Picture_0.jpeg)
+
+## The Laws of the Cosmos
+"The black smoke cleared before my eyes to reveal a grisly scene. My faithful servant and friend had been consumed by the demon that came through the portal, his dry skin tight against his bones and an expression of surprise still on his face. His death is a price I'm willing to pay to enslave this demon to my will." 
+**- Jagreen, the Eternal -**
+
+You are a sorcerer.
+
+One of the few mortals that study the secrets of reality, unearth knowledge long forgotten, and spend the lives of those beneath you like mere coins.
+
+However, your ambition is beyond what your limited time in this world offers, and so you must find the secret to immortality before your time among the living runs out.
+
+You will try to become a lich: a powerful undead sorcerer that binds their soul to the mortal world by some obscure ritual of necromancy, perilous pacts with foul demons, unspeakable sacrifices to forgotten gods, and
+
+![](_page_9_Picture_0.jpeg)
+
+mastery of other unfathomable truths inaccessible to other mortals.
+
+With all eternity to uncover the laws of the cosmos, perhaps one day you will control them; but in the meantime you must subordinate yourself to the rules that govern the lives of all mortals. A humiliation that you must endure for now.
+
+This chapter describes the rules you need to play a game of Lichdom and create a story about boundless ambition, trampling morals and lesser lives in your path towards immortality.
+
+You should read and understand the rules described here if you intend to play the game as a challenge.
+
+If you would rather play with almost no rules, go to the end of this chapter for a description of Story Mode.
+
+Alternatively, if you are looking forward to sharing this Faustian nightmare with a friend, take a look at Nemesis Mode.
+
+
+### The Tools of Powerful Sorcery
+You need two six-sided dice to resolve challenges and a standard deck of 52 cards to prompt events for your story.
+
+A six-sided dice is referred to as a d6; for instance, a challenge is resolved by rolling 2d6, which means you must roll two sixsided dice and read the result as the sum of both dice. Other rules call for bonuses or penalties as a number of d6, these will be identified with a plus or minus sign respectively; for instance a bonus of one six-sided die is indicated as +1d6 and a penalty as -1d6. Some tables, such as the ones to randomly select the flavour of an event, provide 3 options for which you can roll 1d3, select your preferred result, or just use them for inspiration. A d3 is half the result of a d6.
+
+The standard deck of 52 cards is referred to in this book as the Deck of Doom. It must contain four suits of cards numbered 1 to 10, plus a jack card, a queen card, and a king card for each suit. You will draw cards as you play to create events in your story; keeping some of the cards by your side, discarding others, and shuffling back into the deck a few special cards.
+
+
+### The Descend into Darkness
+You can create your character by answering the questions in the chapter **Seeds of Ambition**, but the intention of these is only to understand who you will be playing as, and not to determine the capabilities of your character. All player characters in Lichdom are sorcerers (wizards, mages, shamans, spell-weavers, enchanters, necromancers, etc.) trying to become immortal, and they have the following attributes (some of the capitalised terms are explained later and clarified with examples).
+
+**Resolve:** It's a measure of how far you are from your downfall. Your Resolve increases when you succeed at Adversities, but decreases when you fail at Adversities or suffer Catastrophes. You start the game with 4 Resolve and lose the game when you reach 0 Resolve.
+
+**Doom:** It represents the descent into darkness of your sorcerer. Your Doom increases when you suffer Catastrophes or use Corrupting Powers. Your maximum Resolve is 4 minus your Doom, i.e. Doom lowers the ceiling of your Resolve, pushing you to your ruin.
+
+**Corrupting Powers:** They represent the extremely powerful but vile spells and rituals that are seldom used, as the cost is always great on your soul; such as perilous deals with demons from the abyss or dangerous rituals of necromancy. Whenever you decide to use Corrupting Powers you can repeat an Adversity challenge at the cost of increasing 1 Doom, using the same modifiers as in the initial roll.
+
+![](_page_12_Picture_0.jpeg)
+
+###### Example
+*For instance, imagine I currently* 
+
+*have 4 Resolve and I fail an Adversity challenge (perhaps a duel with another sorcerer that stole a precious artefact from my collection) reducing my Resolve from 4 to 3.*
+
+*I continue with the game and I* 
+
+*fail yet another Adversity challenge (maybe another encounter with the same sorcerer, who becomes my nemesis in this part of the story), which would drop my Resolve from 3 to 2; however by this point I hate*  *my nemesis so much that I decide to use Corrupting Powers to win the challenge, so I re-roll the same Adversity challenge and this time I succeed!* 
+
+*Normally, since it's a success on an Adversity, I would increase my Resolve from 3 to 4 but, since the use Corrupting Powers increases Doom by 1, my new maximum Resolve is 3 and therefore I continue the game with 3 Resolve... but I took my revenge with my hated nemesis and that's all that matters to me.* 
+
+
+### A Desperate Race Against Time
+Each turn of play, you draw a card from the Deck of Doom to face the next event in your story or find out what resources become available from engaging in unscrupulous schemes and foul rituals.
+
+The meaning of each card is described in the sections below. They all include leading questions to shape your world and a few options to define the flavour of the event with 1d3 (for standard events) or 2d3 (for challenges and other special cards). Once you have imagined what happened and how it connects to past events, write an entry in your character's journal and/or add enemies, allies, artefacts and other important story elements to your character sheet.
+
+Each turn loosely represents a year in the life of your sorcerer, but you can link events as you play to create smaller narratives within your story that occur within a few months or even a few days at a time, only to jump several years ahead in time when you feel it's appropriate.
+
+*For instance, imagine I draw a Catastrophe card and I decide that the best outcome for the story is that my character needs to flee his ancestral home, persecuted by the king's guard under penalty of death.* 
+
+*When the next turn I draw a card with the event for a noble house seeking my help, I decide that it's the king's brother that wants to destroy the current ruling family and take*  *over the kingdom with foul sorcery. Knowing I would be interested, he brings a single hair from his brother, which is all I need to curse him and his descendants.* 
+
+*When all is done, with the old king dead and a new king crowned, I return to my ancestral home with honours, ready to continue my search for immortality.*
+
+Do not hesitate to adjust past events in order to better integrate new events in the story.
+
+The four suits of the deck (Hearts, Diamonds, Clubs and Spades) are grouped into two different natures: Mundane (Hearts and Diamonds) and Arcane (Clubs and Spades). Additionally, cards of the same suit have a similar theme.
+- **[Mundane] Hearts**: Social events; such as the service demanded by a warlord or the vile accusations of a king.
+- **[Mundane] Diamonds:**  Violent events; such as a treacherous assassination attempt or an escaped monstrosity within your own tower.
+- **[Arcane] Clubs:** Research events; such as reading a fabled book bound with human skin or experimenting with the alchemy of the flesh.
+- **[Arcane] Spades:** Unnatural events; such as an abhorrent pact with a demon to slay your enemies or the perilous exploration of other realities.
+
+Your goal is to find several fundamental Truths of reality before your Resolve runs out or Doom crushes your very soul. As soon as you collect at least a Mundane Truth and an Arcane Truth (an Ace of Hearts or Diamonds plus an Ace of Clubs or Spades), you can attempt to become immortal through lichdom. However, you can try collecting more Truths to have a better chance of achieving your ambitious goal… even becoming a god in your own right.
+
+
+### The Genesis of All Realities
+While all cards represent events of some sort, each card within their suit can be one of the following types.
+
+
+#### Truths - Ace Cards
+Fundamental and forgotten pieces of knowledge found in old libraries, crumbling ruins, whispered by demons, etc.
+
+Keep the Truths with you when you draw them, providing a +1 to challenges of the same nature (Mundane or Arcane)
+
+You need at least a Mundane and an Arcane Truth to attempt to reach lichdom with an arcane ritual, but the more Truths you collect the better the chances of succeeding in your endeavour.
+
+If you have the required Truths, you can decide to end the game any time after resolving the last event and before drawing the next card. To find out if your cruel gods are by your side, attempt a **Lichdom Ritual** as follows:
+- Roll 1d6 per Truth collected and add the results.
+- Add +1 for each Companion alive and each Influence available.
+- Add +1 for each remaining Resolve.
+- Compare the result to the following numbers.
+
+**Result of 1 to 4 →** You die horribly, your flesh boils and your bones crumble to dust, cursing the land where you attempted the foul ritual.
+
+**Result of 5 to 8 →** You become a wraith, a half ethereal horror beyond the comprehension of other mortals. You will inevitably lose your mind and sanity in the many years ahead haunting your lair, becoming only a monster with no other ambitions besides consuming human souls. A beast far removed from your goal of power.
+
+**Result of 9 to 11** → Your foul ritual partially succeeds, giving you immense power and an extremely long life. You will live
+
+![](_page_16_Picture_0.jpeg)
+
+hundreds of years, command armies and establish cults that will outlive you… but you are not immortal. Your body will eventually wither and die, everything you built will crumble to dust, and your name will be forgotten. You are only mortal after all.
+
+**Result of 12 to 19** → You made it. Your immortal soul will linger in this world forever, just enough time to discover all the secrets of the cosmos. Your body may decay with time, but you will find younger vessels as the ages pass by. You are a lich.
+
+**Result of 20+** → Time doesn't have meaning any more. Ages come and go, empires rise and fall, and you stand above them all while learning the most corrupting secrets of the void beyond reality. You have become a god.
+
+###### Example
+*For instance, by collecting an Arcane Truth (Ace of Spades) and a Mundane Truth (Ace of Diamonds), I learned how to split my soul and transfer the fragments to a*  *swarm of alien beetles, bringing me immortality by becoming the swarm. However, the ritual to split and transfer my soul to an unwelcoming vessel is extremely difficult.* 
+
+*Since I learned two fundamental Truths, I can roll 2d6 in the Lichdom Ritual. Additionally, I have Mundane Influence (a warlord that can provide captives to power my sorceries through human sacrifice), an Arcane Companion (a minor demon that lives within my crystal eye that ensures I recite the correct verses during the abhorrent ritual), and 1 Resolve left after a hard life of strife, providing a total bonus of +3 to the Lichdom Ritual.*
+
+*I roll 2d6+3 and obtain a result of 8, failing the ritual and losing my soul in the process. I am no more.*
+
+
+#### Narrative Events, Cards Numbered 2 to 5
+Events in the life of your sorcerer for which you do not need to roll a challenge, you can simply make up what you wish to resolve the event as it fits your story, then discard the card.
+
+Narrative Events should be used as an opportunity for developing the world around your character; perhaps describing an encounter with an almost extinct but ancient sentient race, your dealings with the guild of imperial librarians, or a great victory against the secretive cult of the Serpent God.
+
+
+#### Scheming and Scrying, Cards Numbered 6
+Special opportunities for your sorcerer to change future events through Mundane Scheming of Arcane Scrying.
+
+Keep the card to use whenever you wish, but only after completing an event and before drawing the next card. You must also pay the cost of Scheming/ Scrying with one of the following:
+- Discard another Scheming or Scrying card. This represents your focus on the task.
+- Discard an Influence card. This could represent external aid or the use of an expendable arcane artefact.
+- Spend 1 Resolve. This represents the toll on your mind.
+- Gain 1 Doom. This represents the toll on your soul.
+
+After paying the cost, roll 2d6 and take that many cards from the Deck of Doom.
+- The die with the lowest result represents the Certain Future, which is bound to happen unless you intervene.
+- The die with the highest result represents the Uncertain Future, which is likely to change unless you intervene.
+
+You can swap 1 card between Certain and Uncertain Futures. At the end of the event, shuffle the Uncertain Future with the rest of the deck and place the Certain Future cards on top.
+
+If the deck doesn't contain enough cards to draw, you lose the game. You can explain it as a mishap of your Scheming or Scrying, such as failing to control other conspirators or trapping your mind inside a crystal ball.
+
+![](_page_19_Picture_0.jpeg)
+
+
+###### Example
+*For instance, imagine I had an Arcane Scrying card for some turns (6 of Spades) and decide to use it now to see if I can find anything interesting and avoid dangerous events.* 
+
+*I use the Arcane Scrying card and pay the cost with another Mundane Scheming card (6 of Hearts) I have been holding on to.* 
+
+*I roll 2d6 and obtain a 2 and a 4, drawing a total of 6 cards from the deck. The first 2 cards are the Certain Future, and the next 4 cards are the Uncertain Future.* 
+*I swap an Adversity card in the Certain Future for a Truth card in the Uncertain Future. Then, I shuffle the Uncertain Future with the rest of the deck and place the 2 cards of the Certain future (now with the Truth card I moved) on top of the deck. The gods are by my side.*
+
+
+#### Adversity Events, Cards Numbered 7 to 9
+Significant challenges in the life of your sorcerer, such as navigating a complicated political landscape or surviving a duel against another sorcerer.
+
+Roll 2d6 against the Adversity difficulty to resolve the challenge and add bonuses and penalties as applicable, then discard the card. The Adversity difficulty is equal to the number on the card.
+- You succeed if you roll a result equal or above the Adversity difficulty. Increase your Resolve by 1, keeping in mind that your maximum Resolve is 4 and limited by your Doom on a 1 to 1 basis.
+- You fail if you roll a result below the Adversity difficulty. Decrease your Resolve by 1. If you reach 0 Resolve, you lose the game.
+
+Remember that you can use Corrupting Powers to repeat the roll of an Adversity challenge with the same bonuses and penalties as the first roll, but this increases your Doom by 1 hence reducing your maximum Resolve for the rest of the game.
+
+###### Example
+*For instance, imagine I draw a Mundane Adversity card with a difficulty challenge of 9 (perhaps I'm being accused of sending forth demonic servants to steal the children of the commoners, and a mob is now rising to destroy my tower and hunt me down).* 
+
+*I roll 2d6 and get a result of 8, which would be a failure, reducing my Resolve by 1. However, let's say I have a Mundane Companion (a ruthless mercenary and famous warrior from the blood feud of the Four Tribes and the destruction of Arc-Nath) that provides a +1 to all Mundane Adversity challenges (perhaps intimidating the leaders of the mob), therefore increasing my result from 8 to 9. This means I succeed at the challenge and I increase my Resolve by 1 instead of reducing it by 1 (keeping in mind that my maximum resolve is limited by my Doom).*
+
+![](_page_21_Picture_0.jpeg)
+
+#### Plots and Curses, Cards Numbered 10
+Mundane Plots and Arcane Curses work against you, such as a conspiracy to end your life, or enemy petitions to responsive gods to halt your progress and thwart your ambitions.
+
+Keep the card visible on the table. The next time you have to roll a challenge of the same nature (Mundane or Arcane), apply a penalty of -2 and discard the card. The penalties of several Plot/Curse cards are cumulative over the next challenge.
+
+###### Example
+*For instance, imagine I drew an Arcane Curse on a previous turn, so the card (10 of Clubs) is on the table in front of me until the moment I draw an Arcane Adversity challenge and the penalty has been applied.* 
+
+*Let's say the challenge difficulty is 7 and I have no other bonuses or penalties. Due to the Arcane Curse card, I must obtain a result of 7 or higher with 2d6 - 2 to succeed. Regardless of the result of this challenge, the Arcane Curse card is discarded after this Adversity event is resolved.* 
+
+
+#### Companions - Jack Cards
+Mundane and Arcane allies in your story, such as the spirit of the first wizard to walk this world, or an assassin that seeks favour with an elder god.
+
+Keep the card with you while your companion is alive, providing a +1 bonus to challenges of the same nature (Mundane or Arcane).
+
+You can also sacrifice a Companion for one of the following effects, then discard the card.
+- Prevent a Catastrophe.
+- Provide a bonus of +1d6 to a challenge (can be sacrificed after the initial roll).
+
+![](_page_22_Picture_9.jpeg)
+
+###### Example
+*For instance, let's imagine I have two companions and I have just failed a challenge of difficulty 8. Since it's important for me to succeed on this challenge, I decide to sacrifice one of my companions to get an additional +1d6 to my roll, obtaining a final result of 11 and succeeding at the challenge. I explain the death of my companion as an unfortunate casualty defeating the paladin of the Order of Undying Light.*
+
+*Let's say that next turn I draw a Catastrophe and I wish to avoid it. The only way to prevent the effects of a Catastrophe is to sacrifice a Companion of any nature (Mundane or Arcane). I do so, and I explain how the failed ritual consumes the flesh of Grognard the Alchemist while I escape unscathed.*
+
+
+#### Influence - Queen Cards
+Influence over the Mundane or the Arcane that provides a critical - but fleeting - help in the form of things such as favours owed by powerful mortals or forgotten rituals of power that can only be uttered once.
+
+Keep the card with you and sacrifice it for one of the following effects (can be sacrificed after the initial roll), then discard the card.
+- Provide a bonus of +2d6 to an Adversity challenge of the same nature.
+- Provide a bonus of +1d6 to an Adversity challenge of the other nature.
+- Pay the cost of Scheming/ Scrying.
+
+###### Example
+*For instance, imagine I just failed a Mundane Adversity challenge of difficulty 9 with a result of 3 in my challenge roll. I have Mundane Influence (perhaps in the form of a favour owed by a noble house) that I use to roll 2d6 extra and add it to the initial roll, rolling a total of 4d6 (2d6 + 2d6). I roll an extra 7, making a total of 10 and succeeding the challenge.*
+
+*However, if instead of Mundane Influence I had Arcane Influence, I would only roll 1d6 extra towards the initial challenge roll, rolling a total of 3d6 (2d6 + 1d6). Not the best situation to be in.*
+
+
+#### Catastrophes - King Cards
+The impending Doom in your story. It can represent many different things, such as personal failure, unavoidable traps by bitter enemies, or general strife in the world.
+
+When you draw a Catastrophe you immediately gain 1 Doom and reduce 1 Resolve unless you sacrifice a Companion, which suffers the horrible consequences of the Catastrophe instead. Shuffle the Catastrophe card back into the deck after resolving its effects.
+
+If you draw two Arcane Calamities in consecutive turns, you bring the end of times to your world and lose the game.
+
+*For instance, imagine I draw an Arcane Catastrophe card (King of Spades) and I must suffer the terrible wrath of a demon (because I don't have any Companions to endure the deathly attention of the creature for me). I increase my Doom by 1 (reducing my maximum Resolve by 1) and I decrease my Resolve by 1.*
+
+*After applying the effects of the card, I shuffle it back into the deck.* 
+
+*Let's say that the following turn I draw another Arcane Catastrophe (it could be both the King of Spades or the King of Clubs, since the King of Spades was re-shuffled). This brings the end of the world to my game in the form of a portal to a demonic plane, expanding like a festering wound and crawling with abominations beyond this world.*
+
+![](_page_24_Picture_7.jpeg)
+
+
+### Many Different Paths, One True Goal
+
+#### Story Mode
+If you would rather focus on the story, ignore the challenges and use all cards as narrative events.
+
+The rules of Resolve don't apply to this mode of play, but if you reach 4 Doom (increased by the Catastrophe cards) you lose the game. You still need to roll for the Lichdom Ritual.
+
+
+#### Challenge Mode
+If you want to experience the game as a challenging story, very possibly leading to failure, play with the full rules described in this chapter.
+
+
+#### Nemesis Mode
+Play with and against a friend. Each player is one of two sorcerers trying to achieve immortality, but their ambition without limits and self-centred personalities take their rivalry to untold hate.
+
+Use the following modifications to the rules:
+- **Each turn,** both players draw a card from the same deck and resolve their event independently unless the other player Intrudes.
+- **Intrusions:** You can Intrude into the story of the
+
+other player by spending Influence, which provides a penalty of -2d6 or -1d6 to your nemesis Adversity challenge.
+- **Sorcerous Duels:** Plot and Curse cards do not apply as penalties. Instead, you can keep them and use them to force a duel for control of a Truth by discarding the card and increasing your own Doom by 1. Both players roll 2d6 and apply modifiers, the winner takes the Truth and the loser increases their own Doom by 1.
+- **Resolution Order:** Actions declared during the same turn (especially if they are taken in response to the other sorcerer's actions) are resolved in inverse order, i.e. last declared action happens first.
+
+Try to narratively connect the events as you play, even if they are not mechanically interconnected by the rules with Intrusions and Sorcerous Duels.
+
+
+## Perilous Lands
+"Long before our time, when the land was still young and the night sky wasn't yet illuminated by the twinkling souls of the damned, the titans dared challenge the seven gods of death. You can still find their shattered skulls scattered across the world, a testament of their folly for the races that came after then." 
+**- Atrahasis, the Magnificent -**
+
+Before you start your journey to become a demi-god in your own right, it can be useful to have some knowledge of the world your character inhabits: its creation myth, defunct civilisations, world-changing cataclysms, and other wonders of times past. You can also skip this step and start playing right away, coming back here when you need inspiration to develop your own world.
+
+The easiest approach is to choose an existing fantasy world you enjoy and are familiar with, such as your own official or homebrew RPG world, the lands of Hyboria from Robert E. Howard's Conan the Barbarian, the Young Kingdoms from Michael Moorcock's Elric series, Nehwon from Fritz Leiber's Fafhrd and the Gray Mouser stories, or any other fantasy world where it is not completely out of the question that someone could achieve immortality through unscrupulous means.
+
+If you are not already familiar with an existing world of fantasy or you would rather create a new one, this chapter provides the essential tools to create the basic outline of a world. However, do not be concerned with developing a consistent canon and focus on the drama of your story instead.
+
+You don't need to write about the past of your world in detail, simply being aware of it as you play will give you the tools to make your journal entries richer and help you to immerse yourself into your own reality. Did your character find an ancient temple of a forsaken religion? Why not make it part of an ancient cult to the god-meteor that cracked the world open and covered the sky with ash for a hundred generations? A plague spreading across the nine kingdoms? Why not make it the curse of an awakened demon imprisoned thousands of years ago? History is often ambiguous and the past is mixed with legends that are most certainly not true. Take advantage of this to add new details and corrections to the history of your world even as you write the last entry on your journal.
+
+The world is generated in three phases that loosely correspond with a period of time in your world, but you are welcome to add intermediate periods by rerolling or introducing details as you go. Each period of time has two main aspects that define it in terms of its influence on your current time.
+
+Keep in mind that these prompts are not the blueprints of creation, they are unreliable myths and legends told over a warm fire for countless generations, the misinterpreted runes written on the stones of an ancient empire, and the sacred scriptures of religions concerned only with perpetuating their own existence. They are all lies, and it's up to you to believe some of the lies to tell your story.
+
+
+### A Past Long Forgotten by Mortals
+This is the inconceivable distant time when the world originated, when everything that ever was grew out of its cosmic cradle to fight for dominance over chaos. The myth of creation is shrouded in legends, a collection of several mythologies from different cultures that merged over millennia. They are stories and ideas recorded by scholars that never left the libraries of the glimmering city, imaginative transcribers of brave but uneducated sailors of intoxicated minds.
+
+
+#### Creation Myth
+Choose or roll 1d6:
+1. Chaos swirls around the edges of the creation, slowly coalescing into matter over the timeless periods between the cataclysms that destroy it all back into the sorcerous essence it came from. The borders of the world are always uncertain, as mortal minds cannot endure the swirling chaos for too long.
+2. This is one of several planes created by the gods of chaos, but they do not watch over their creation with loving eyes. Sometimes the bridge between realities allows unfathomable beings to pass through to this plane, always with unpleasant consequences.
+3. There was never a creation event. The land, the seas, the sky, the stars… they always existed and they will exist until the great devourer comes. Then all will be silent forever.
+4. This world is the rotting corpse of Urmor; the god giant that, tired of his eternal loneliness, gave its life to create this world. Everything will end when Urmor is reborn from its petrifi ed heart at the centre of creation.
+5. The creation is a dream of a higher god. Peaceful sleep produces peaceful times; turbulent sleep produces catastrophes and war. People pray that he never wakes up from its slumber.
+6. An ancient race shaped the world with impossible sorcery. But they were not the first, they thrived on the ruins of other races before them. The world is full of ruins of their towering cities, ingenious machines protect their metal tombs, blinking lights traverse the night sky, and the landscape presents perduring marks that no one can find a purpose for.
+
+![](_page_29_Picture_0.jpeg)
+
+
+#### The Lay of the Land
+You don't need a map to play Lichdom, but you can roll on the following table to discover a few interesting locations in your world as you play, or to draw a map of a mostly unknown world full of perils.
+
+|1d6|Descriptor|Descriptor|Location|With...|And...|That...|
+|:|:|:|:|:|:|:|
+|1|Malevolent|Petrified|Forest/Jungle|A bottomless chasm|Tunnels|Is riddled with demons|
+|2|Primeval|Frozen|Desert/Wasteland|A red river|Ashen sky|Is covered in mist|
+|3|Forgotten|Shattered|Sea/Lake|A burning lake|Alien stone formations|Is inhabited by savages|
+|4|Expansive|Soundless|Island/Fjord|A forsaken battlefield|Toxic fumes|Feeds on hope|
+|5|Cursed|Steaming|Mountain/Cliff|Ancient ruins|Constant storms|Is barren|
+|6|Unexplored|Lightless|Plain/Tundra|Toxic swamps|A volcano|Is a nexus to other worlds|
+
+
+### The Perils of our Ancestors
+These are the ancient times when the first civilisations emerged, the first codes of law were written, traditions were born, and the first sorcerers discovered secrets that would shatter the cosmos if spoken out loud.
+
+
+#### Ancient Denizens
+Choose or roll 1d6:
+1. Two empires engaged in a devastating war over a precious resource, lasting centuries and leaving hundreds of ruins along the shifting borders. What resource was it? What was it used for?
+2. A cult of a dark god raised to prominence and catapulted a small tribe to cultural dominance for a few centuries. Who was this god? What was its main doctrine?
+3. An empire divided by civil war and vast sums of coin spent on steel. People starved and rebelled against their leaders. Only petty kingdoms remained after the bloodshed. What disagreement caused the war?
+4. Titans and other enormous creatures ruled the land; the smaller races venerating them as gods. Who created these original races? Why did they disappear?
+5. Several dynasties of sorcerer kings ruled with an iron fist over the lives and deaths of many; using their subjects to pact with demons and call upon greater powers that would ultimately destroy them.
+6. An advanced race dominated the world. They perished after a terrible war lasting centuries, leaving enormous craters where mountains once stood proud. The earth, air and water of some areas are still poisonous.
+
+![](_page_32_Picture_0.jpeg)
+
+
+#### Cataclysm
+Choose or roll 1d6:
+1. Fire erupted out of the earth for centuries, creating new islands of black rock seeded by demons and making life impossible in vast areas of the world. The sky was covered by ash clouds and all but the most resistant vegetation perished.
+2. Vile sorcery caused utter destruction with the creation of a magical void vortex. Demons crawl out of the void and warrior societies develop around it.
+3. A meteor fell to the world from the vengeful stars, sinking islands and raising new mountains. The enormous crater created on impact is a cradle for strange creatures and savage cultures.
+4. The world endured a time of unmelting ice and starless nights lasting centuries. Land and sea were frozen solid; proud civilizations buried whole in their frigid tombs, waiting for a warmer time to reveal their secrets.
+5. Foul sorcery, an angry god, or strange natural phenomena created a new sun in the firmament. A cursed sun shining red with hate on the mortal races of the world, and boiling seas into inhospitable deserts over the centuries. Fresh water is difficult to find in this hellish landscape.
+6. Storms and rain lasting centuries. The sea level rose, sinking civilizations in the forgotten depths. The world is now made of islands that used to be mountains.
+
+
+### The Present Struggle for Dominance
+This is your time; the cultures and religions that dominate the current landscape sprung from the ashes of the old world. You can roll a couple of times to create a more complex landscape, but also assume that other cultures and obscure religions exist; some of them terrifying and bound to terrors of a distant time. You can add flavour to your results by borrowing cultural depth from real life cultures, such as the Assyrian empire, Celtic tribes, Saxon kingdoms, etc.
+
+
+#### Cultural Dominance
+Choose or roll 1d6:
+1. City states struggle for dominance; alliances are
+forged and broken often, to the point where no city state ever trusts its allies. Slavery is not only present, but commonplace in the daily lives of the powerful noble houses due to the great number of petty wars and surrendering enemies.
+2. Several kingdoms unified by a corrupted overlord. Political intrigue and assassinations are not uncommon, and rumours talk of open rebellion against the ruling noble house.
+3. Young rivalling kingdoms are slowly taking over the lands of a dying empire where sorcerer kings ruled for centuries. The old traditions die and new ones are forged in the fires of war.
+4. An empire that worships its emperor as envoy of the divine. Borders are stagnant and decadence governs life. Savage tribes lurk in the jungles and swamps beyond the limits of the empire, threatening an uneasy peace that lasted centuries.
+5. Nomadic tribes travel the wasteland, trading and fighting, sometimes to complete annihilation. Few walled cities exist, serving as a temporary stop for most tribes in their never ending journeys. Guilds protect their members and kingship is prohibited.
+6. A civilisation as fragmented as the islands they inhabit, where warlords lead raids against their neighbours in search of plunder and slaves to maintain the loyalty of their warriors.
+
+
+#### Nature of Gods and Arcane
+Choose or roll 1d6:
+1. A corrupted religion of a single cruel god with no tolerance for older religions. All magic is treated as heresy and its practitioners are hunted and executed in public display.
+2. A pantheon of indifferent gods, rarely intervening with the lives of mortals except for their own amusement. Sorcery is rare but accepted as a dangerous and unpredictable gift from the gods.
+3. Animism prevails. Older gods have been replaced by the worship of the spirits of rivers, forest, mountains, etc. Sorcery is feared, as it is seen as a corrupting force from the void rather than a natural force.
+4. Ancestors are worshipped in small shrines. A demiurge tends to the spirits of the ancestors, but does not interfere with the living. Sorcery is uncommon, and many people seek the aid of petty enchantments to improve their lives.
+5. The seven gods of chaos are the only remaining gods. The others have been slayed during a terrible war that caused a cataclysm, changing the world forever. Sorcery is seen as a favourable mark of the gods; but also a terrible burden, as rivalries grow strong among sorcerers.
+- 6. The gods are forgotten. Worship is only directed towards the artefacts and scriptures of the past, as the new civilizations try to regain the lost glory of times long gone. Sorcery is valued as a resource for such purposes, but deeply feared for the terrifying consequences of its use, as all sorcery comes from the aid of demons which have their own selfish plans.
+
+![](_page_35_Picture_3.jpeg)
+
+
+## Seeds of Ambition
+"The slaver didn't remember me at first. I was nothing to him but a kid worth a few coins in an already fat purse. But he did remember me in the end, at the peak of the exquisite torture I had prepared for him. Agony perfected by my dark sorceries and alchemy of the flesh."  **- Jagreen, the Eternal -**
+
+Your character is a sorcerer trying to become a lich. 'Sorcerer' is used as a general term throughout this book to refer to a wizard, a mage, an enchanter, a witch, a warlock, a necromancer, or any sage capable of wondrous spells and abhorrent arcane rituals.
+
+Your sorcerer is initially defined by your imagination - with some help provided by the questions and suggestions below - and later affected by the Marks of Doom you will gain along the journey.
+
+You don't need to select or roll to determine any attributes or skills. Your only defining numbers are your remaining Resolve and your Doom, which start at 4 and 0 points respectively but will change during the game depending on your actions. Your maximum Resolve is 4 minus your Doom score.
+
+You need to keep track of these two attributes on your character sheet (provided at the end of this book), or use tokens like the Doom cards in the Deck of Doom.
+
+This chapter focuses on defi ning your character for the fi ction you are about to create. Who are you playing as? What motivates you? What are you afraid of? What do you hate?
+
+
+#### The Rotten Seeds of Ambition
+The following questions can be a useful guide to think about the personality of your character. They are provided with 1d3 suggestions, but feel free to ignore them, adapt them to your liking, or stick to them. It is your character, create something you feel comfortable playing as in your descent into darkness.
+
+
+#### **How did you become a sorcerer?**
+1. My arrogant old master taught me with pain, but I took my revenge after thanking him for the cruel lessons.
+2. I learned myself by sneaking into the forbidden library of the White City, protected by spirits that crave life.
+3. I learned from the fading script in an ancient journal of a long dead sorcerer that failed trying to become immortal, but left unfathomable knowledge behind.
+
+
+#### **What happened to your family?**
+1. Some still live, but they are ashamed of what I have become.
+2. Killed in an accident caused by my initial dwelling into the dark arts of sorcery. The lesson was a valuable one.
+3. I can not remember. I recently awakened from an unnatural slumber lasting ages that erased most of my memories; but I don't know if it was my own stratagem or the unwanted consequences of sorcery.
+
+
+#### **What early memory will stay with you forever?**
+1. Smoke and screams, a dark ritual of unknown purpose for which I was meant to be a sacrifi ce.
+2. The unbearable thirst while crossing the red wastes, where demons abound and the scarce vegetation is carnivorous.
+3. The long nights reading ancient scrolls, trying to learn their secrets while blizzards and dire-wolves howled outside the walls.
+
+![](_page_38_Picture_9.jpeg)
+
+
+#### **Where do you currently live?**
+1. As the advisor of a noble lord or a tribal chief, whom I manipulate to my advantage.
+2. A dungeon below the ruins of a temple of a forsaken religion.
+3. An old tower, which I make appear grandiose with illusions.
+
+
+#### **How do you look?**
+1. The scars of slavery cover my body. I'm fortunate for surviving my ordeal, but my former captors did not survive my freedom.
+2. Rich garments and ancient jewels adorn my noble posture. Necessary trinkets to navigate the politics of the capital and buy favour.
+3. Furs protect me from the cold of the night, bones carved with runes hang from my hair, and the smell of smoke permeates my ragged clothes.
+
+
+#### **Who is your worst enemy? Who was it before and how did you destroy them?**
+1. My old friend, almost a brother, who shared my passion for mastering the arcane. We became enemies due to our very different opinions about the purpose of magic and the limits of morality.
+2. A holy order of knights. They don't know my real name or where to find me yet, but they are searching and they are extremely persistent.
+3. The Circle of Sequestered Mystics, who rightly perceive me as a threat for my unrestricted use of sorcery.
+
+
+#### **Why do you look for immortality?**
+1. The short span of a mortal life is not enough to uncover the most incredible secrets of the cosmos.
+2. True power can only be achieved by research and practice of the arcane through several lifetimes.
+3. I am special. A chosen mortal destined to become a god in my own right worshipped by lesser beings. Immortal, amoral, all-knowing, and all-powerful.
+
+
+### Marks of Doom and Inevitable Ruin
+Whenever you gain Doom, you are encouraged to come back to this chapter and roll, select, or be inspired by the following tables for Marks of Doom.
+
+These marks show the terrible transformation of your sorcerer in the descend to darkness and the quest for immortality.
+
+
+#### **Corruption of the Mind:**
+1. You become paranoid, believing enemies surround you and friends conspire against you.
+2. Your insomnia makes restful sleep an insurmountable challenge without drugs distilled from poisonous flowers.
+3. You are full of hate for your fellow mortals. The realisation that you are just like them makes you sick and bitter.
+4. You become forgetful, increasingly relying on your notes and journal to continue your quest. Your passions remain, but the memories fade.
+5. You start to lose hope that you will ever become immortal. Doubts plague your thoughts.
+6. Your arrogance reaches new limits. You see other mortals as soulless automatons to your disposal.
+
+
+#### **Corruption of the Body:**
+1. You develop reptile eyes that can only see in darkness.
+2. Strong light burns your skin, which turns to ash.
+3. Your flesh rots and worms burrow under your skin.
+4. Black horns grow painfully from your skull whenever you feel hate.
+5. You must feed on human blood to avoid withering to a lifeless husk.
+6. Your body is weak and can no longer support you. You must rely on alchemy, sorcery, or servants to move.
+
+![](_page_41_Picture_8.jpeg)
+
+
+## The Path Towards Immortality
+"The demon spoke in the primordial language long forgotten by the mortal empires of this age. But I pondered over crumbling scrolls and studied the wisdoms of the past for many moonless nights, and so I understood the proposal of this vile creature. Six hundred and sixty six souls to be sacrificed every year in exchange for the secrets I desperately seek. A fair price." 
+**- Atrahasis The Magnificent -**
+
+The following sections present the events for all the cards in the Deck of Doom. The events are arranged in order per suit, from 1 to 10 followed by the jack, queen and king.
+
+Each card proposes an event with a theme dependent on its suit, presents a few leading questions for you to consider answering in your journal, and adds a few options to further define the flavour of the base event (rolling 1d3 for one or two different questions) that you are free to ignore or adapt to your story and your world.
+
+Lichdom has several possible endings depending on the result of the Lichdom Ritual (see chapter **The Laws of the Cosmos**), which is affected by how many fundamental and forgotten Truths you have collected, how much Resolve you have remaining, how many Companions still follow you, and how much Influence you retain.
+
+However, getting to a position where you can even attempt a Lichdom Ritual demands difficult choices from you, probably needing to sacrifice your Companions and spending Influence to keep Doom at bay and maintain your Resolve.
+
+Try to connect events with each other as you play, even if you have to adapt past events to improve the narrative. Keep in mind that this is a game about creating good fiction, and the failures of your sorcerer make great plot points in the story. Do not be afraid to fail miserably and recover gloriously.
+
+Once you have at least a Mundane and an Arcane Truth and decide to risk it all with a Lichdom Ritual, connect the knowledge provided by each Truth to create your own approach to immortality. The lichdom ceremony must include both a Mundane and an Arcane requirement.
+
+###### Example
+*For instance, my Arcane Truth is that I know how to transfer my soul to a younger body; and my Mundane Truth is forgotten alchemical expertise that allows me to keep a body alive longer. With these two in mind, I decide that the ritual to transfer my soul is dangerous and likely to kill me before the process is complete, and so I need to prepare the herbs and concoctions that will keep me alive throughout the ritual.* 
+
+Even though the Arcane Truth will probably be (in the fiction) the key to achieve lichdom, try to include the Mundane Truth as a solution to a problem presented by the Arcane Truth.
+
+Use the following tables if you need inspiration during your journey.
+
+
+##### Dungeons
+**Dungeons , ruins and other abandoned places to loot for valuable knowledge and forgotten arcane artefacts.**
+
+|1d6| Dungeon |Trait |Location |Protection|
+|:|:|:|:|:|
+|1 |An enormous tomb |Made of steel and other unknown materials |Half buried under the torrid desert sands |A giant serpent that breaths fire|
+|2 |A tower reaching impossible heights |Built over a maelstrom of fire |Under the cavernous ice of the frozen wastes |A six-limbed monkey stone golem |
+|3 |Artificial tunnels Laboriously decorated |Under one of the largest cities of the world |A giant spider with hundreds of offspring |
+|4 |A natural cave |Built by an unknown race |Hanging off a cliff above a tumultuous sea |A winged horror from beyond the veil |
+|5 |A fortress |Haunted by baleful spirits and their tormentors |Hidden deep within a lush jungle |A tentacled mass absorbing all matter |
+|6 |A ruined city |Shifts between planes of existence |On a remote island inhabited by giant lizards |A sprawling carnivorous plant |
+
+
+##### Demons
+Demons **full of hate and contempt for the mortal races, yet useful as a source of information and corrupting powers.**
+
+|1d6 |Demon Name 1|Demon Name 2 |The... |Appearance |Lord of... |Demands... |But... |
+|:|:|:|:|:|:|:|:|
+|1 |Ur- |-Ubel |Faceless |Half fly or spider |The undying |host |Blood and |souls |Can’t be near children |
+|2 |Agh- |-Irman |Burning |Half goat |or bat |Pestilence |Unwilling |agony |Can’t stand light |
+|3 |Nechr- |-An |Rotting |Half |serpent or vulture |Darkness |Treasures and power |Can’t touch iron|
+|4 |Sat- |-Och |Charming |Made of shadow |The void |Desolation |Only speaks in riddles|
+|5 |Baal- |-Ruus |Shadow |Made of worms |Hate and discord |War and famine |Has been exiled |
+|6 |Nephe- |-Lais |Winged |Extremely beautiful |Pride and greed |Worship and sacrifices |Especially treacherous|
+
+
+##### Artefacts
+Artefacts **created by baleful powers beyond the comprehension of mortals and destined to ruin the lives of many.**
+
+|1d6 |Artefact |Trait |Wonder|
+|1 |Fragile clay tablets as ancient as the mountains |With many souls trapped within that scream in agony |Awakens the dead, but does not give you command over them |
+|2 |Crude iron ring with primitive engravings |Coveted by demons and other entities not from this world |Changes the nature of reality and thins the veil to the worlds beyond 
+|3 |Elaborate bronze mask with no eye holes |Covered in runes of power that fuel dark sorcery |Provides knowledge of aeons past |
+|4 |Ancient weapon made of obsidian  |Created by an alien race that came to this world before  the Cataclysm |Whispers unholy secrets in the dark if you offer a soul in return|
+|5 |Strange and ominous shrunken head |Feared by demons for the power it has over them |Is conscious and hateful, but holds knowledge now lost to mortal souls |
+|6 |Mechanical contraption of dazzling complexity |Burns the skin and consumes souls to obtain power |Brings death to all around it if not treated with extreme care |
+
+
+##### Creatures
+Creatures **that can be found in the darkest places of a dangerous world and the imagination of frightened mortals.**
+
+|1d6 |Descriptor |Creature |Trait |
+|1 |Horned and covered in black scales |Giant but stealthy serpent |Perceives multiple realities, where it preys upon unsuspecting victims |
+|2 |Extremely intelligent and knowledgeable |Giant toad with a hundred spawn |Has recently awakened from a slumber of millennia |
+|3 |Undead and living in agony, a shadow of its former self |Dragon protecting a treasure hoard |Worshipped by a cult of mindless mortals |
+|4 |Demonic and cursed by a god |Tentacled horror with infinite hunger |Wasn’t born in  your world |
+|5 |Immortal by nature of its body or soul  |Sprawling carnivorous plant |Speaks within your own mind in a strange alien language |
+|6 |Sorcerous and master of arcane powers |Homunculus created by a dead sorcerer |Shifts in and out of existence for seconds at a time|
+
+![](_page_48_Picture_0.jpeg)
+
+
+## Hearts Mundane Social
+
+### Ace of Hearts
+![](_page_50_Figure_8.jpeg)
+A truth of this world that gives you power over death and places you above all other mortals, giving you a chance at immortality.
+
+#### Where do you find it?
+1. In the Book of Skelos, crumbling scrolls long buried in the shelves of the forbidden library and guarded by blind sages.
+2. Hieroglyphics on the broken walls of a half buried city under the desert sands.
+3. Experiments described in the journal of a sorcerer with a similar quest to yours, now consumed by worms in a cursed necropolis.
+
+#### What is it?
+1. Death is only another alchemical process that can be stopped with the proper research of the body and the right potions.
+2. A soul can be trapped in this world by offering other souls in return, preventing it from abandoning its mortal body when it stops functioning.
+3. Resurrection is possible, and it has been recorded in the sacred texts of forgotten religions. An undying body might be achievable by worshipping foul gods that demand abhorrent sacrifices.
+
+![](_page_51_Picture_0.jpeg)
+
+### Two of Hearts
+![](_page_52_Picture_8.jpeg)
+The greed of merchants doesn't know limits, and this particular guild pushed a little too far by making demands of someone such as yourself, who delves in magic and secrets that would shatter their minds.
+
+But they do have something you need, and you must fi nd a way to snatch it from their greedy hands before someone else takes interest.
+- What unreasonable price did they ask for in their hubris?
+- Did you pay the price or took what you needed by force?
+- Can you trust their discretion? Do you take measures to silence them?
+
+#### What do they offer?
+1. A map drawn on the stretched skin of a long extinct beast, leading to the forsaken tomb of an infamous sorcerer-king.
+2. The journal of one of the reclusive members of the Black Circle, containing unknown rituals and spells to summon demons and rot living fl esh.
+3. The petrifi ed heart of a giant fi re-breathing serpent, a most precious alchemical component in obscure rituals of necromancy.
+
+
+### Three of Hearts
+![](_page_53_Figure_7.jpeg)
+
+You receive a threat from a known or unknown enemy that achieves its purpose: to hurt your pride and disturb your ambitions.
+
+You are enraged by such a daring move against your person and vow to destroy them. You are still bound by mortal passions, after all.
+- Who sends the threat and why do you hate each other?
+- How do you respond in your rage? Why can't you end their life at this point?
+- Why is it so important to you to come on top of this quarrel?
+- Is your nemesis an individual or a whole organisation, such as The Circle of Sequestered Mystics, The People of the Black Circle, or the Temple of Undying Light?
+
+#### What is the threat?:
+1. The head of a distant ally, the pain of torture imprinted in her rotting eyes.
+2. A hateful letter written with poisonous ink distilled from the blood of an unknown creature.
+3. The burned pages of a fabled book. Unreadable knowledge made ashes, its secrets lost to time after being committed to memory by your nemesis.
+
+
+### Four of Hearts
+![](_page_54_Figure_8.jpeg)
+The cult of a new god spreads across the land, rapidly increasing in power as the cult infects the powerful and denounces old and oppressive institutions.
+
+You know they worship a false god, or at best a minor entity of the spheres, and yet you find some utility in their nonsense. Impressionable individuals with devotion to a higher purpose are the easiest to manipulate.
+- Who is the leader of this new cult? Are you enemies? Do you hold some respect for each other?
+- What is the most abhorrent practice of the cult?
+- Who are the most vocal and prominent enemies of the cult? How do they die?
+
+#### What is this cult?:
+1. The Cult of Wyrm rises from the desert tribes; its believers willing to sacrifice themselves to the giant snakes in their temples.
+2. The Cult of the Silent One spreads from the frozen north; no sound is allowed in their temples and they trade secrets for death.
+3. The Cult of Ardent Fire develops from a sect; the rage of their followers tears down everything that was holy and sacred to their forefathers.
+
+
+### Five of Hearts
+![](_page_55_Figure_7.jpeg)
+An ancient noble house seeks your aid in desperation. Their gods and medicine have failed them, and they are now willing to make a pact with darkness to survive.
+
+Not all the arrogant rulers of the masses are your allies, but this opportunity is perfect to advance your agenda or slight a common enemy.
+- Who needs desperate help and why do you provide it?
+- What do you claim in return? Simple riches or an unassuming family heirloom that it's older than they can imagine?
+- How do you banish their torment and who dies in the process?
+- Who inflicts this bane upon them? Are they your enemy? If so, why do you hate them?
+
+#### What afflicts the noble house?
+1. A disease of the blood that rots the body in life while the mind is trapped forever.
+2. A curse on the women of the dynasty. New blood is stillborn and enemies look greedily upon their lands while amassing their armies at the border.
+3. The crops rot and the livestock fall prey to savage beasts summoned from other realities.
+
+
+### Six of Hearts
+![](_page_56_Figure_7.jpeg)
+
+Your constant scheming against the bickering noble houses, and numerous spies infiltrated in their own households finally provides results you can use.
+
+You learn political secrets well protected by steel and incantations, and now you can plan ahead to profi t from the bleak future to come, and even intrude to your advantage.
+- What do you learn that stirs your anger? How do you move against it?
+- What do you scheme to profi t from what you have learned?
+- Who dies as a result of your spying and scheming? Was it a planned move?
+- Who else is an accomplice of your schemes? Do they owe you a favour or are they acting on self-interest?
+
+How do you learn it?
+1. Secrets murmured in the court of a queen by careless courtesans that drink too much and boast too freely.
+2. Sold by the Temple of Silent Whispers in exchange for a crippling secret about an ally of yours.
+3. Stolen contracts from the guild of merchants in the city of Noch, makers of the famous iridescent steel.
+
+![](_page_57_Picture_0.jpeg)
+
+### Seven of Hearts
+![](_page_58_Picture_10.jpeg)
+
+Dream thieves, a rare but mundane threat perpetuated by unique and extraordinary mortals, infiltrate into your dreams to steal a precious memory. They face the terrible shadows of your mind and horrors lurking in your unconscious thoughts.
+- Who sent them against you?
+- What are they trying to steal?
+
+#### Who is the dream thief?
+1. Theleb-Karn, a famous sage in search of the true name of a higher demon.
+2. Oone, a lonely adventurer in search of a secret city.
+3. Someone without a name, shedding all memories aside to become no-one.
+
+#### What challenges do you present?
+1. Immovable doors opened by impossible riddles. The memory is carved in stone and written in an ancient language lost to time.
+2. An eternal desert inhabited by sand demons. The memory is narrated by a hermit in an oasis with carnivorous vegetation.
+3. A city of crystal and dangerous creatures frozen in time until approached by an intruder. The memory can be seen in a bottomless pool at the centre of the city.
+
+![](_page_59_Picture_0.jpeg)
+**"I knew they would come since e very moment I read e wondrous runes adorning the walls of thee tomb of Xaltotun, prince of Acheron. The secrets of e ancient sorcerer kings are extremely valuable for any sage, and e most greedy dream thieves can't help themselves despite e risks of assaulting a superior mind.**
+
+**I was prepared for them. Incantations and terrible visions of o er planes abound within my mind. The dream thieves could not overcome my protections.**
+
+**They lost their own minds in e concept of an eternal shifting wasteland of another world, where chaos deforms and corrupts everything since the Cataclysm that boiled the seas. The fools.**
+**- Atrahasis the Magnificent -**
+![](_page_59_Picture_5.jpeg)
+
+
+### Eight of Hearts
+![](_page_60_Picture_9.jpeg)
+
+After many weeks of careful planning, bribes, lies, threats and possibly murder, you become the leader of a cult. Your followers do your bidding with limited efficacy, but their unquestionable loyalty makes up for their lack of wits.
+- Who had to die for you to become the leader?
+- Why do they worship you?
+- What is the most outrageous lie your cultists believe?
+
+#### What is the axiom of the cult?
+1. Mortality is a gift from the gods and lives are expendable.
+2. Mortals are only cattle to demons and other immortal entities in an eternal struggle for supremacy in the higher spheres.
+3. The all-knowing leader will save the cult from the upcoming cataclysm.
+
+#### How do you end up in charge?
+1. You create the cult from nothing, using illusions and rhetoric to attract the weak.
+2. You manoeuvre into a position of power within an established cult before murdering the leader.
+3. The cult forms around you almost by chance. Your fame and power spread, attracting new followers that think you are a god.
+
+![](_page_61_Picture_0.jpeg)
+
+
+### Nine of Hearts
+![](_page_62_Picture_8.jpeg)
+
+A famous philosopher, reputable merchant or powerful noble tries to humiliate you or instigate others against you. You must stop them before this profanation causes real damage.
+- How do you silence or remove the instigators?
+- What do you lose or gain in the process?
+
+#### What are the accusations, true or false, against you?
+1. Sending forth mercenaries to steal the children and using them for your alchemy of the flesh.
+2. Unleashing destructive storms, long blizzards and decimating droughts with your vile sorcery.
+3. Rising the death and releasing unholy beasts upon the land, searching for a place of ancient worship.
+
+#### What are the consequences?
+1. A furious mob only appeased by the destruction of your tower and removal of your person away from their lands.
+2. Loss of favour in court and animosity against your political manoeuvres.
+3. A young and zealous knight of a new religion leading an order of righteousness against your creations.
+
+![](_page_59_Picture_5.jpeg)
+**"I received a worrying letter today. One of my informants within the house of king Numedides describes how I am being accused of terrible crimes by the chief counsellor to the king, which happens to own land near my tower; which also happens to suffer some kind of horrifying plague released by one of my experiments.**
+
+**I don't worry about the populace, they are too weak now to come to me and satiate their thirst for revenge, but I must be careful with young and zealous knights looking to prove themselves before their elders and their ancestors.**
+
+**First, I'll make sure my dear neighbour speaks no more. Second, I'll make sure that breaking into my tower has a dire cost for foolish warriors."**
+**- Jagreen the Eternal -**
+![](_page_59_Picture_5.jpeg)
+
+
+### Ten of Hearts
+![](_page_64_Figure_9.jpeg)
+
+Envious enemies conspire against you and plot your failure, striking precisely at a critical moment or committing an unexpected treachery.
+- Who conspired against you and why?
+- Are they a known enemy?
+- Do they act out of greed or to stop your progress in the dark arts?
+
+#### Who works against you?
+1. The secretive Guild of Silent Whispers, traders of truths and violence that sell to the highest bidder.
+2. A nemesis from your youth; serving a growing hate throughout the years that can only culminate with spilled blood or worse.
+3. An ambitious noble house that perceives you as a threat or seeks vengeance for your present or past allegiances.
+
+#### How did they conspire?
+1. Masterful spies within your own household reveal your plans to your enemies.
+2. Large bribes fi lling the pockets of infl uential people working against you.
+3. Inconvenient truths about your doings spread among the powerful, who now look at you with distrust.
+
+![](_page_65_Picture_0.jpeg)
+**"Everything was going according to plan. I wasn't interested in his gold and silver, I only wanted a simple bronze mask at was part of his hoard. A trinket for him, a wonder for me.**
+
+**But he refused, and so a a ins were paid and documents were forged to take over e weal of e stubborn knight.**
+
+**However, I wasn't expecting e involvement of Jagreen and his ro en greed. My a a ins and e knight were slaughtered by a demon summoned by him. A ra er brusque, yet effective, approach at deprived me of e treasure. I suspect he has spies among my servants which I' have to weed out before he can interfere again."**
+**- Atrahasis the Magnificent -**
+![](_page_65_Picture_4.jpeg)
+
+
+### Jack of Hearts
+![](_page_66_Figure_9.jpeg)
+
+You encounter a mortal companion that follows you on your ambitious quest. Their skills will be useful in the mundane world of politics and favours you need to navigate before transcending to lichdom. But do not get too attached, they are mortal and dispensable, after all.
+- What is their name?
+- What do they look like?
+- How do you meet?
+- Why do they ally with you?
+
+#### Who is this curious character?
+1. A courtesan of an emperor, warlord or king. A dealer of secrets and lies that change nations, move armies and sink fl eets.
+2. The keeper of the annals of a powerful state, protecting the records of all signifi cant events since the Cataclysm that destroyed the ancients.
+3. An influential merchant of lowly origins that has contacts among the lower casts of society.
+
+#### What occupies their mind?
+1. A large debt to powerful and vengeful people.
+2. Holds a terrible secret and fears the consequences of what they did.
+3. Profoundly religious, they believe you have been sent by a terrible god.
+
+![](_page_67_Picture_0.jpeg)
+
+
+### Queen of Hearts
+![](_page_68_Figure_8.jpeg)
+
+Someone powerful owes you a favour, accepts a bribe, or responds to blackmail, making them inclined to act in your benefit.
+
+The aid comes from mortals focused on their own petty lives, but they can still be useful tools in your quest if used correctly, even if the fallible tool breaks in the process.
+- What did you do for them or how much did you pay for their services?
+- Do they fear the awful consequences of not being faithful to their obligations?
+- How do they help you to overcome a challenge?
+
+#### Who owes you a favour?
+1. The Master of Secrets in court, who controls which versions of the truth are whispered to the ear of the king and who is considered a threat to the dynasty and treasury.
+2. The High Priestess of Ashura, who can freely interpret messages from their strange god to influence devout followers.
+3. You have evidence, either masterfully fabricated or genuine, to blackmail the chief advisor of the holy emperor. Fear of rolling heads and dishonour makes them inclined to help you.
+
+![](_page_65_Picture_0.jpeg)
+**"It's very convenient that the high priest of the religion followed by king Numedides owes me a favour. As soon as the high priest started accusing the chief counsellor of heretical behaviour, providing evidence fabricated by my sorcery, Numedides cast him away from his court, fearful of the rage of his inexistent god. 
+The now disfavoured chief counsellor, an intelligent, good-hearted and self-made true servitor of the realm, is nothing but a common man without the protection of the king. An easy prey to my dark arts."**
+**- Jagreen the Eternal -**
+![](_page_65_Picture_4.jpeg)
+
+
+### King of Hearts
+![](_page_70_Figure_8.jpeg)
+
+A terrible mundane event that shakes your place in the world, political landscape and society.
+- Did you cause this catastrophe?
+- How did you escape and what did it cost you?
+- How did you change after this event?
+
+1. You are declared an enemy of the crown and have to abandon your tower before soldiers burn everything to the ground.
+2. Your own servants come shrouded by night and attempt to take your life with vile poisons or sharp steel.
+3. The death of a vile king with a favourable disposition towards your dark arts, leaving you vulnerable and surrounded by influential enemies.
+4. A new cult to an intransigent and cruel god spreads like wildfire; its followers are openly hostile against all types of magic.
+5. An old enemy you took for dead returns to your life in a position of power and influence, making your life difficult.
+6. Some of your secrets are stolen by skillfull thieves, leaving you vulnerable to blackmail.
+
+![](_page_71_Picture_0.jpeg)
+
+![](_page_72_Picture_0.jpeg)
+
+
+## Diamonds Mundane Violent
+
+### Ace of Diamonds
+![](_page_74_Figure_8.jpeg)
+A truth of this world that gives you power over death and places you above all other mortals, giving you a chance at immortality.
+
+#### Where do you find it?
+1. The fundamental secrets of reality, whispered to the fi rst mage to ever walk this world. A gift hidden in the fi rmament.
+2. Revealed by the ancient traditions and legends of a disappearing tribe. You had to submit them to your will to reveal their secrets.
+3. Discovered by alchemical research and bloody experimentation at the cost of many lives.
+
+#### What is it?
+1. Rejuvenate your ageing body by consuming the flesh of the youthful under a blood moon.
+2. Life force can be extracted from mortals from the distillation of their humours, producing pure life essence that will extend your life and give you strength.
+3. Elder trees never die, their roots extend below ground and control the undying cycle of nature. You learn the reason for their eternal existence, or fi nd a way to merge your body into the immortal tree.
+
+![](_page_75_Picture_0.jpeg)
+
+
+### Two of Diamonds
+![](_page_76_Figure_6.jpeg)
+
+Treacherous thieves tried to steal one of your most precious artefacts, shrouded by the darkness of a moonless night. You are disturbed and impressed that they managed to bypass all your mundane and arcane precautions, and you suspect they had help.
+
+Their admirable efforts, however, turned out to be fruitless when you sensed their presence and found them within your tower. They had no escape, and so they died in terrible agony; their screams uttering the name of whom you now seek with a vengeful heart.
+- What did they try to steal and why is it important?
+- What precautions did you have in place and why did they fail?
+- Who helped or guided them in their failed quest? Was it an established enemy or treachery within your own household?
+
+#### Who sent the thieves?
+- 1. The Circle of Sequestered Mystics, collectors of ancient wonders that practice restraint in magic.
+- 2. The Mercantile Guild, who seeks profit above all else.
+- 3. Nobody. A thief with an ambition reaching further than his skills. You like him, but failure has a price.
+
+
+### Three of Diamonds
+![](_page_77_Figure_6.jpeg)
+
+The vile abomination you created escaped from its foul pit of death. It killed and consumed many of your servants in a rampage of hate, blood, and desperation. It was amusing at first, but you had to finally kill it before it wrecked havoc beyond repair.
+
+The experiment can be considered a failure, as the creature could not be controlled reliably to do your bidding, but at least you gained a wealth of non-sorcerous knowledge on the inner workings of several species, alchemical concoctions, and surgery.
+- What abomination did you create?
+- How was this monster contained and how did you kill it?
+- Was this creature your only organic experiment, or one of many in your laboratory?
+
+#### Why did you create it?
+1. To learn and understand secrets that could extend your own life in the future through unnatural means.
+2. As a stealthy and faithful killer; a creature unclouded by conscience, remorse, or delusions of morality to send against your enemies.
+3. To clone key powerful figures that you planned on supplanting by your mind controlled puppets.
+
+
+### Four of Diamonds
+![](_page_78_Figure_6.jpeg)
+
+The bloodthirsty heir of an old ruling dynasty has come to power by treachery and murder, and you helped or failed to prevent it.
+
+Discontent spreads and revolution is imminent, but the iron fi st of the new ruler keeps the population in check with ruthless practices and well paid mercenaries, while the coffers of the kingdom are wasted in bribes and steel.
+- Why did you help or oppose the change? Are you an associate of the new or old regime?
+- Why did you get involved? Do you owe any favours or made a deal for your own benefi t?
+- How do you ensure the new rulers stay in power or how do you remove them from the throne? Do you face any consequences for it?
+
+#### Who is the new ruler?
+1. Salome, who took the throne from her sister with lies and tricks. She worships a dreaded god and sacrifi ces citizens to its avatar.
+2. Yyrkoon, who had the support of other noble dynasties and declared the rightful ruler an outlaw.
+3. Numedides, who had the support of a neighbouring kingdom and help from rare and ancient sorcery.
+
+
+### Five of Diamonds
+![](_page_79_Figure_7.jpeg)
+
+A noble house or warlord seeks your help to curse their enemies with crippling pain and horrible death. They can't openly move against their foes, and so they depend on your sorcery to achieve their ambitious goals.
+
+Curses should not be used lightly, as you may call forces diffi cult to control, but either for your own benefi t or the pain of your common enemies, you decide to employ your dark arts to end a dynasty.
+- Who needs your help and why do you help them?
+- What do you claim in return? Simple riches or a blind eye on your activities in their domain?
+- What ritual do you use and who dies in the process?
+- Why do they need to use horrible sorcery?
+
+#### How do you curse their enemies with foul sorcery?
+1. A disease that rots the mind and turns them mad with agony. Death is their only escape to their personal hell.
+2. A curse on their family. All descendants die horribly before adulthood and the continuity of their noble line is at dire risk.
+3. Their lands dry to ash and financial ruin shatters their long legacy.
+
+
+### Six of Diamonds
+![](_page_80_Figure_8.jpeg)
+
+You use violence to obtain valuable information. You learn about the plans and hopes of other parties from the insatiable greed or unbearable torture of their followers; whispered secrets and screamed weaknesses that you can now use to your advantage.
+- What do you learn that gives you hope?
+- What do you scheme to profi t from what you have learned?
+- Who dies as a result of your spying and scheming? Was it a planned move?
+- Who else is an accomplice of your schemes? Do they owe you a favour or are they acting on self-interest?
+
+#### How do you learn it?
+1. From the loose tongue of a disgruntled servant, willing to exchange the invaluable secrets of their master for common gold. Fool.
+2. Promises yelled under torture by a spy uncovered in your own household; but can you trust the secrets screamed in her horrifying agony?
+3. Threats to clerks and scribes of the Mercantile Guild, who reveal secrets whispered in confidential meetings held under the Jade Spire of the ancient city of Lagash.
+
+![](_page_65_Picture_0.jpeg)
+**"It's incredible what damage a disgruntled servant can do to their master if given too much freedom. She came to me willingly and ready to sell some information, but I couldn't let pass the opportunity to extract every bit of knowledge from her.**
+
+**She told me of the investments of her master, the secret pacts among powerful people made with blood and wine behind closed doors, the march of soldiers and coin paid to mercenaries, and the rumours brought back by the soldiers on leave from the garrisons at the frontier. They talk of something terrible moving in the dark jungles of Kush, where the Jade Tower used to stand proud more than a millennia ago.**
+
+**I will depart for Kush without delay."**
+**- Jagreen the Eternal -**
+![](_page_65_Picture_4.jpeg)
+
+
+### Seven of Diamonds
+![](_page_82_Figure_8.jpeg)
+
+You face a legendary beast of tremendous power. Folk tales shroud the creature in mysticism and fear, and history books tell the story of heroic mortals that perished in their attempt to destroy its dark soul.
+- Who dies in the fight?
+- Where do you fight it?
+
+#### Why do you confront this beast?
+1. It protects the Iron Eye of the Blind God, an artefact that allows strong minds to embark on a dangerous atavistic voyage. What horrors do you see in the distant past?
+2. You awakened it from its slumber of ages to find answers. What do you ask when you defeat it?
+3. You need its black and poisonous heart for a sorcerous concoction. What alchemy are you trying to create?
+
+#### What is this creature?
+1. A serpent-demon with a tongue of stone and eyes that see into several realities.
+2. A tentacled horror beyond this world that consumes fl esh and light with its demonic maw.
+3. An intelligent and terrifying chimera escaped from the laboratory of a sorcerer.
+
+![](_page_83_Picture_0.jpeg)
+
+
+### Eight of Diamonds
+![](_page_84_Figure_8.jpeg)
+
+Assassins are sent against you by your most hated enemies. You have been suspecting their intentions for a long time, but never thought they would dare to openly move against you. Especially in such a crude way.
+
+You have no option but to retaliate; but you won't fail, and their screams will reverberate in the vaults and corridors of your domain for many long days.
+- Who sent them against you and why?
+- How did you survive and how did you take revenge?
+
+#### How did they attempt murder?
+1. They poisoned your food, but someone else tried it fi rst and died in agony.
+2. Trespassers revealed by their furtive steps in the night and the glimmer of murderous blades.
+3. A shadow demon hidden in the body of a servant tried to steal your soul.
+
+#### How did they get close to you?
+1. Someone helped them to defeat your protections with sorcerous knowledge.
+2. They infiltrated your household long ago pretending to be servants.
+3. On your way to the court of a noble. They knew you were coming.
+
+![](_page_85_Picture_0.jpeg)
+**He had been infiltrated as one of my servants for many years. A sleeping menace I only recently discovered.**
+
+**But I am no fool. I can see times long past and futures yet to come, I am privy to secrets only whispered in fear by demons. An assassin of mortal flesh is no concern, but rather a fresh sacrifice to my hungry gods.**
+
+**I suspect Jagreen, who calls himself Eternal in a pitiful display of arrogance, sent the assassin. He will have to be stopped."**
+**- Atrahasis the Magnificent -**
+![](_page_85_Picture_5.jpeg)
+
+### Nine of Diamonds
+![](_page_86_Figure_9.jpeg)
+
+Your dark arts attract the attention of a famous warrior set on ending your life. The clever warrior seeks you relentlessly carrying some protection against magic. Only powerful sorcery can help you to defeat this enemy.
+
+- Why does the warrior want your death?
+- Where do you meet? Do you prepare for the encounter?
+- What is the nature of the warrior's magical protection?
+
+#### Who is this warrior?
+1. A lonely steel wielding barbarian with gigantic melancholies and gigantic mirth.
+2. An iron-clad knight who wanders the land with a faithful squire.
+3. A head hunter of an uncivilised tribe beyond the great gorge that splits the Plains of Ash.
+
+#### Why is the warrior coming to kill you?
+1. Revenge, either misplaced or justified, guides their path towards you.
+2. Sworn to destroy all dark sorcery in the name of a temple of good and light.
+3. The glory that comes from claiming your head and the profitable loot to be found.
+
+![](_page_87_Picture_0.jpeg)
+
+
+### Ten of Diamonds
+![](_page_88_Figure_8.jpeg)
+
+Enemies conspire against you and plot your failure, striking at a critical moment.
+- Who conspired against you and why?
+- How is violence involved in the treachery?
+
+#### Who works against you?
+1. The Mercantile Guild, seeking retribution over an old grudge that nobody remembers, but bureaucracy is slow and due revenge comes late.
+2. The Temple of the Undying Light, too ambitious to let pass an opportunity to hurt you and increase their influence.
+3. The Company of the Purple Heart, a daring band of mercenaries hired by an old enemy to disrupt your plans.
+
+#### How did they conspire?
+1. A hired killer is sent against you and your servants, forcing you to deal with it before it becomes a bigger problem.
+2. The assault of your tower and theft of an artefact you need to achieve your goals, leaving a trail of death.
+3. A murder of a minor ally from which you expected service at a critical moment.
+
+![](_page_65_Picture_0.jpeg)
+**"I found the ruins of the Jade Tower and killed the beast that protected its treasures; old relics of immense value to most mortals, but I was only interested in the clay tablets that describe the true origin of our world and hint at knowledge beyond our reality. **
+
+**I bribed a captain of the garrison stationed nearby to escort me and my treasures back to civilisation. I could see the greed in the eyes of the soldiers, only stopped by the fear of my sorcery and the promise of generous pay.** 
+
+**The attack came on the second week of march. A mercenary band of ruthless killers assaulted our caravan, killing everybody but me. I ran hidden by my sorcery and left the clay tablets behind. Atrahasis took his revenge, but this is not over."**
+**- Jagreen the Eternal -**
+![](_page_65_Picture_4.jpeg)
+
+
+### Jack of Diamonds
+![](_page_90_Figure_10.jpeg)
+
+You encounter a mortal companion that follows you on your ambitious quest. Their skills will be useful in the mundane world of violence and threats you need to navigate before transcending to lichdom. But do not get too attached, they are mortal and dispensable, after all.
+- What is their name?
+- What do they look like?
+- How do you meet?
+- Why do they ally with you?
+
+#### Who is this curious character?
+1. A seasoned warrior, a captain veteran of many slaughters and a natural leader when blades shine.
+2. An assassin who sold their soul to a terrible god to become as silent as the shadow of death itself.
+3. A fallen knight of a religious order, full of shame and greed.
+
+#### What is special about them?
+1. Came back from death and is compelled to aid you by ancient sorcery, but he truly hates you.
+2. Has many contacts in the higher casts of society, where she is feared as an envoy of death.
+3. Has been exiled from her land and seeks revenge.
+
+![](_page_91_Picture_0.jpeg)
+
+
+### Queen of Diamonds
+![](_page_92_Figure_8.jpeg)
+
+Someone powerful owes you a favour or takes your coin to do your bidding. Valuable help from simple minded mortals, no more than a tool to be used and discarded in your quest for immortality. Peons on a game of gods that have the power to decide who enslaves them.
+- What did you do for them or how much do you pay for their services?
+- Do they fear the horrifying consequences of not being faithful to their obligations?
+- How do they help you to overcome a challenge?
+- What happens to them if they fail?
+
+#### Who owes you a favour or takes your coin?
+1. The Silent Death, a secretive guild of assassins that pride themselves on their obscure traditions and efficiency. You suspect someone you know is behind the organisation.
+2. The Blades of the Purple Heart, a mercenary company with the ruthlessness to make your dark bidding without moral quarrels or remorse.
+3. You have evidence, either true or fabricated, to blackmail an aggressive but simple minded warlord.
+
+![](_page_65_Picture_0.jpeg)
+**"The advantage of rule mercenaries is at you don't need to tell them much to execute your orders: wait for Jagreen and the soldiers, kill them all , bring me the treasure.**
+
+**The disadvantage of mercenaries is that they get easily distracted by mundane treasure, giving Jagreen the opportunity to escape alive.**
+
+**Unfortunately the tablets didn't survive e encounter, thrown away by the brainless thugs thinking of them as items of no value.**
+
+**Brute force is an imprecise tool."**
+**- Atrahasis e Magnificent -**
+![](_page_93_Picture_6.jpeg)
+
+
+### King of Diamonds
+![](_page_94_Picture_8.jpeg)
+
+A terrible mundane event that shakes your place in the world, political landscape and society.
+- Did you cause this catastrophe?
+- How did you escape and what did it cost you?
+- How did you change after this event?
+
+1. War ravages the land, crops go unharvested, fi re consumes cities and blood feeds the soil. How are you involved?
+2. You are ambushed on your way to another place. Where were you headed? Who or what attacks you?
+3. The people rise in arms against their masters; a revolution spreads like wildfire across the land and many of your servants decide to join in. How did it start?
+4. A meeting in a far off place with whom you thought to be an ally becomes a deathly trap. Who is the traitor?
+5. Something valuable is stolen from you, such a tome of forgotten lore or an artefact from before the Cataclysm. Who did it? What was stolen?
+6. You are attacked in your own home by an angry mob, cultists, or soldiers paid by an old enemy. How do you defend yourself?
+
+![](_page_95_Picture_0.jpeg)
+
+![](_page_96_Picture_0.jpeg)
+
+
+## Clubs Arcane Research
+![](_page_98_Picture_8.jpeg)
+
+### Ace of Clubs
+A truth of all realities that gives you power over death and places you above all other mortals, giving you a chance at immortality.
+
+#### Where do you learn it?
+1. The dreams of a slumbering serpent-god within the tomb of a sorcerer-king of aeons past.
+2. Hidden in the future verses of a poem written by civilisations not yet born; a truth that only foul sorcery can reveal.
+3. A secret of the priests of an ancient religion to a god now dead; a truth only accessible through atavistic scrying requiring great sacrifice.
+
+#### What is it?
+1. Split your soul into pieces and trap them within several artefacts that must be protected with traps, incantations and demons bound to your immortal will.
+2. The unused wish that was conceded by the first god to the first sorcerer when time was young.
+3. Bind your consciousness to a swarm of lesser beings. Each body is mortal, but the swarm will prevail through the ages guided by your indomitable will.
+
+![](_page_99_Figure_0.jpeg)
+
+
+### Two of Clubs
+![](_page_100_Picture_7.jpeg)
+
+Your search of forgotten lore in ancient ruins and dusty tomes takes you to communicating with elder gods, long forgotten by other mortals.
+
+You hear their calling in the heavy darkness on the darkest nights, cold whispers in an unknown language older than time itself, uttering unfathomable truths and making terrible demands from their mortal worshippers.
+- How did you contact them and what was the cost?
+- What answers do you seek and why can't you fi nd them without their help?
+- What do they want from you in return that they can't take by themselves?
+- Do you keep worshipping them after your encounter and do you try to spread its cult to other mortals?
+
+#### Who speaks to you?
+1. Arioch, lord of the seven nights, who demands souls in exchange for his treacherous favour.
+2. Azathoth, the sleeping god beyond the veil, whose dreams manifest as horrifying reality.
+3. Jhebbal-Sag, a blood-thirsty entity worshipped by uncivilised savages beyond the red river. Father of all earthly demons.
+
+
+#### Three of Clubs
+![](_page_101_Picture_7.jpeg)
+
+You discover the remains of an ancient civilisation; impossibly old and incredibly beautiful. They were masters of such wonders that it makes you question the worth of your own achievements.
+
+Silence besets the abandoned place; no doubt these fallen jade statues and sundered colourful temples were once witness to wondrous and horrifying events now lost to recorded history. Perhaps their fall is for the best.
+- What destroyed them and how long ago was it?
+- What remains of them now among the broken pieces of their ancient glory?
+- How did you discover the ruins and what were you looking for?
+- Where are the ruins and what problem did you have on the journey?
+
+#### Who were they?
+1. A race that came to your world in the time before the Cataclysm to flee their demonic masters.
+2. A cruel culture that built Cyclopean monuments to their defunct emperors and practised necromancy.
+3. A complex civilisation that transcended their own organic bodies, animating complex machines with their spirits.
+
+
+### Four of Clubs
+![](_page_102_Picture_8.jpeg)
+
+You are trapped and lost for many days in a forsaken and dangerous dungeon below the ruins of an ancient city. You came looking for an artefact older than the Cataclysm, but you only found corruption and death instead.
+
+The darkness itself seems to whisper warnings, and furtive red eyes observe all your movements with malevolent intent. You are not welcome here.
+- Where are you lost?
+- What ancient artefact or forsaken knowledge do you seek in this place?
+- Who died so you could survive and escape this baleful dungeon?
+
+#### What threatens you?
+- 1. Black statues come to life in the sunken ruins of the Marsh of Decay; animated by the souls of cursed priests of a forgotten religion.
+- 2. An aggressive race of albino ape-men, worshippers of forgotten dark gods, that eat all trespassers while keeping them alive with unnatural drugs.
+- 3. Undead and grotesque aberrations guarding the basalt tomb of the Lord of Worms, a famous sorcerer that delved into necromancy and made gruesome pacts with unholy demons.
+
+
+### Five of Clubs
+![](_page_103_Picture_8.jpeg)
+
+Your thirst for arcane knowledge leads you to stealing a cursed tome of lore from an obscure cult, the secret meaning of ancient runes, or the ancient wisdom of a disappearing culture.
+
+You had to lie, kill and threaten to get it, perhaps even destroying the original owners or condemning them to a fate worse than death.
+- What did you steal and why is it important to you?
+- How did you learn of its existence and what did it cost you?
+- Did you gain the knowledge you were looking for?
+- Who were its previous guardians and how did you steal from them?
+- What's the final destiny of those you have wronged with this plot?
+
+#### What esoteric knowledge did you steal?
+1. The first words spoken by the Raven to the last woman in the fi rst day after the Cataclysm.
+2. The detailed description of a ritual lost to time, which you are now unwilling to enact due to its dire cost.
+3. The true name of a demon, which grants absolute power over the corrupted will of the beast.
+
+
+### Six of Clubs
+![](_page_104_Picture_7.jpeg)
+
+By extensive and careful research in ancient tomes of sorcery, reading the shapes revealed in the smoke of a sacrifice, making abhorrent deals in the dark with powerful demons, or by any other unfathomable arcane means, you are able to discern your destiny from the entanglement of multiple realities other mortals call "future".
+
+You now have knowledge that makes allies seek your favour and enemies despair in fear of your vengeance. Use it well.
+- What did you see in your future that disturbed you?
+- How did you change the future to your advantage?
+- What did this scrying ritual cost you and why cannot be repeated in the same way?
+- What were you looking for in the future?
+
+
+#### How do you read the future?
+1. You discern events yet to come from the prophetic verses written in the dried skin of a serpent-god.
+2. The entrails of human sacrifice speak of the secrets of powerful mortals and reveal horrors to come.
+3. Half-truths whispered from the darkness by a menacing demon that speaks in riddles and demands payment.
+
+![](_page_105_Picture_0.jpeg)
+
+
+### Seven of Clubs
+![](_page_106_Picture_8.jpeg)
+
+An arcane trap written in the crumbling pages, fading glyphs, or rotten scrolls you study. Words that imprison the mind of the reader in a nightmare lasting weeks, months, years or centuries.
+- What were you hoping to learn in your studies?
+- How did you free yourself and how long were you imprisoned?
+
+#### What were you researching?
+1. The book of Vathanos, which contains the transcripts of hundreds of years of conversations between the priests of a dead religion and a demon.
+2. The glyphs in the tomb of Thoth-Amon, a powerful sorcerer that was the favourite of the serpent demon-god Set.
+3. Half-burnt scrolls hidden for centuries in the ruins of a forsaken temple.
+
+#### Where was your mind imprisoned?
+1. Absolute darkness in complete silence. A timeless void beyond the seas of swirling chaos.
+2. A vortex of fire where other souls were trapped forever, too weak now to escape.
+3. Within the mind of a demon, bound by his willpower.
+
+![](_page_65_Picture_0.jpeg)
+**"I recovered the clay tablets from the site of the attack, and I pieced them together over several months, making sure the fading script over its frail surface was not lost in the process. I could barely hold my excitement when I finally set to read its ancient runes and reveal primeval truths. But it was an arcane trap.**
+**As soon as I finished reading the first sentence, I found myself lost in an unnatural darkness where no speech could be uttered. It took me many weeks of agony trapped in that loathsome place before I found a way to return my consciousness back into my body.** 
+**My servants had taken good care of me. Some of them stole my silver and escaped in the night, but I'll find the treacherous thieves and show them the mistake of their ways."**
+**- Jagreen the Eternal -**
+![](_page_85_Picture_5.jpeg)
+
+
+### Eight of Clubs
+![](_page_108_Picture_8.jpeg)
+
+While learning a new spell or ritual, either a mistake or a purposefully placed error in your source of sorcerous knowledge, causes an unexpected and dangerous magical mishap that you only barely manage to control.
+- How do you control the mishap and what does it cost you?
+- Who is to blame for this failure?
+
+#### What sorcerous mishap occurs?
+1. A tear in reality opens a portal to an unstable plane where unformed demons abound.
+2. The dead rise for miles around you, animated by a sliver of consciousness of a vengeful god.
+3. A vortex of chaos and insanity grows and expands in the room, like a festering wound with the will to consume the world.
+
+#### What sorcery were you performing?
+1. A simple ritual to speak with the dead.
+2. A spell learned from the notes of an ascetic monk you found petrifi ed.
+3. A complex ritual to access the spirit world and search for someone.
+
+![](_page_109_Picture_0.jpeg)
+
+
+### Nine of Clubs
+![](_page_110_Picture_10.jpeg)
+
+Your research of forgotten arts takes you to create an alchemical concoction that attracts death. Yourself or someone close to you is gravely injured.
+
+The foul smell of the potion was a clear warning of danger, but no reward comes without risk and you had to try its effects.
+- What was the most diffi cult ingredient to obtain and why?
+- Is this the first time you try? Why did you fail in the past?
+
+#### What were the expected effects?
+1. Opening your mind to the secrets whispered by the darkness and the elements.
+2. Channelling your powers in the chaotic planes.
+3. Rising the dead from their rotting sleep.
+
+#### But instead...
+1. The potion transforms the subject into an aggressive monstrosity with only a faint resemblance of a human mind.
+2. The subject grows an insatiable hunger for human fl esh that goes beyond any other desire.
+3. The subject phases out of existence for hours, returning with a broken mind and speaking in babbles.
+
+![](_page_65_Picture_0.jpeg)
+**"It took months and heaps of silver to gather the ingredients of the concoction described within the book of Skelos: the heart of a man that escaped his tomb, the tears of a woman rejected by her sons, the ashes of a defunct king, and the left eye of someone that has seen a god.**
+
+**The risks were enormous. A single error in the process and I would become something not quite human, as Skelos warns within his fabled book.**
+
+**But I succeeded. The arcane potion opened my mind and attuned my senses to the Otherworld, a reality so close to ours that they join for a small period of time when the days grow short and the cold months approach."**
+**- Atrahasis the Magnificent -**
+![](_page_111_Picture_5.jpeg)
+
+
+### Ten of Clubs
+![](_page_112_Picture_9.jpeg)
+
+A baleful curse that diminishes your powers and disrupts your plans. Your enemy is probably familiar with wizardry or a devout follower of a powerful god.
+- Why were you cursed?
+- Are they a new enemy or an old one?
+- How do you overcome it?
+
+#### Who cursed you?
+1. The hierophant of the cult of Yig, father of all serpents and whisperer of unfathomable secrets, seeking revenge.
+2. A lonely witch driven by hate and greed. What did you do to her to ignite such loathing?
+3. Your old master, who you believed to be dead; its body petrified and sunken under the waters of the boiling sea. How are you responsible for such a horrible destiny?
+
+#### What's the effect of the curse?.
+1. Snakes detest you and actively seek to harm you. They come at you from the shadows of your own house, making any rest difficult.
+2. You are speechless for days, preventing you from chanting your terrible incantations.
+3. Food rots in your hands and water turns to ash in your mouth.
+
+![](_page_113_Picture_0.jpeg)
+
+
+### Jack of Clubs
+![](_page_114_Picture_9.jpeg)
+
+You encounter a curious companion that follows you on your ambitious quest. Their skills will be useful in the arcane world of perilous research and dark rituals you need to navigate before transcending to lichdom. But do not get too attached, they are dispensable, after all.
+- What is their name?
+- What do they look like?
+- How do you meet?
+- Why do they ally with you?
+
+Who is this curious character?
+1. An alchemist that achieved the transformation of lead into gold once in the past, but the secret was stolen from his mind by a dream thief.
+2. A self exiled dream thief condemned to death in many civilised lands for crimes against the mind.
+3. The trapped consciousness of a demon, its soul prisoner within your skull.
+
+#### What is special about them?
+1. Owes you their life or existence and is now bound to serve you.
+2. Was driven mad by a previous experience.
+3. Needs you and your power to destroy a common enemy that threatens both their body and mind.
+
+![](_page_65_Picture_0.jpeg)
+**"Something strange happened when I escaped from the timeless void where my mind was trapped for weeks after reading the cursed and ancient clay tablets of the Jade Tower. Something I only**
+
+**barely comprehend myself. It seems that I wasn't the only one trapped in that place. Another creature, a demon of some sort, had been trapped within the void for aeons, and it escaped with me when I managed to free my mind.**
+
+**His name is Gygax. A minor demon that now lives within my skull and constantly whispers unimportant things. The demon is ancient, however, and I'm sure he will prove useful when the time comes."**
+
+**- Jagreen the Eternal -**
+![](_page_111_Picture_5.jpeg)
+
+
+### Queen of Clubs
+![](_page_116_Figure_7.jpeg)
+
+Help from arcane powers is not readily available to most mortals, but you have the opportunity to buy their assistance or command them to give you aid by heinous sorcery, secret knowledge, or other means. After all, you are a true master of the arcane among mortals.
+- How do you encounter them? Do they come to you or do you seek them out?
+- Why do they help you and what does it cost you?
+- Why can you only request their aid once?
+
+#### Which master of the arcane helps you?
+1. The spirit of Skelos, or an incorporeal simulacrum of his consciousness, emerges from fading scripture to give advice speaking in riddles. Only you can see him.
+2. A witch, daughter of a prince of hell, tells you about the secrets whispered to her by demons and malevolent spirits of the dark forest in which she lives.
+3. A wandering seer offers cryptic visions of the future at the cost of some of your happiest memories, which you will forget forever. Which memory do you give up and how does it change you for the worst?
+
+![](_page_117_Picture_0.jpeg)
+**"I started reading e fading writing on e cursed scrolls, and a croaking voice whispered from the darkness beckoning me to approach. It was Skelos himself, or a reflection of his spirit, at was trying to warn me against its own teachings. Or so he claimed.**
+
+**But is he really the infamous mage at banished countless generations ago? Can I truly forsake to learn e abominable lessons kept alive across the gulf of times by frail papyrus?**
+
+**- Atrahasis e Magnificent -**
+![](_page_117_Picture_4.jpeg)
+
+
+### King of Clubs
+![](_page_118_Picture_8.jpeg)
+
+A terrible unnatural event shakes the world or baleful arcane powers are directed towards you.
+- Did you cause this catastrophe?
+- How did you escape and what did it cost you?
+- How did you change after this event?
+
+1. You read a description of reality that shatters your understanding of it and drives you mad. Where do you read it?
+2. A ritual of light and darkness summons a fl esh-consuming mist that spreads through the world. How do you avoid it?
+3. A powerful demon has noticed you and detests your arrogance. Submit to its will to survive. Why has it noticed you now? How do you release yourself?
+4. A sorcerer queen of old awakens from her tomb. A cult quickly forms around her and takes arms to conquer all. Why does she hate you?
+5. You have an encounter with an enemy sorcerer in a position of power, barely surviving the duel. What gives them power?
+6. A failed spell sends you to an empty world beyond the shimmering chaos. How do you return?
+
+![](_page_119_Picture_0.jpeg)
+
+![](_page_120_Picture_0.jpeg)
+
+
+## Spades Arcane Unnatural
+
+### Ace of Spades
+![](_page_122_Figure_8.jpeg)
+
+A truth of all realities that gives you power over death and places you above all other mortals, giving you a chance at immortality.
+
+#### Where do you find it?
+1. A dream quest. A ritual that allows your soul to travel to other planes and learn from the experience of many lives across disparate existences.
+2. In the future constellation of stars, as revealed by an artefact of an extinct race found within a tomb of unfathomable age.
+3. Signed a contract with a demon in exchange for abhorrent ritual sacrifices for the years to come.
+
+#### What is it?
+- 1. Only death can give you immortality. Follow a terrible ritual of powerful sorcery in the name of forsaken gods to trap your soul in your body for all eternity.
+- 2. Copy your consciousness into several gems, perfectly synchronized by your governing soul, which is merged into the brains of an indestructible machine.
+- 3. Learn the true name of a powerful demon and force it to maintain your soul in the mortal plane or reveal the ritual of lichdom.
+
+![](_page_123_Picture_0.jpeg)
+
+
+### Two of Spades
+![](_page_124_Picture_7.jpeg)
+
+You sign a contract with a demon in exchange for wondrous knowledge and dark favours. The demon refuses to reveal the higher secrets of reality, but is willing to whisper minor truths that could make you a wolf among sheep.
+
+Do not mistake the mild interest of your demonic patron for admiration or recognition, as all mortals are nothing but fleeting candles of consciousness in the eternal darkness of creation.
+- How did you contact the foul demon and what was the terrible cost?
+- Why is the demon interested in making a deal with a mortal such as yourself?
+- What do you want to know and why is this information difficult to obtain?
+- What horrendous shape does the demon take?
+
+What does the demon ask in return for its treacherous favour and unholy patronage?
+1. The first born of a new family, willingly offered by the mother.
+2. Nine souls consumed by an otherworldly fi re under a full moon.
+3. Murderous blood spilled between brothers in a holy day; stirred by rage and awakened by envy.
+
+
+### Three of Spades
+![](_page_125_Picture_6.jpeg)
+
+You discover an ancient and isolated race hidden in plain sight or in a remote corner of the world beyond a natural barrier. They worship strange gods in their grim temples and use old sorcery to stay hidden.
+
+They may have originated in another plane or evolved in the very same world now dominated by your species; perhaps they never conquered the surface or their race devolved into a shadow of their previously advanced civilization. Irrespective of their origin and history, they feel alien and somewhat repulsive to you, but you can benefit from them.
+- How did you discover the hidden race?
+- Do you expose them or keep the information to yourself?
+- How do you benefit from their existence?
+
+#### Who are they?
+1. Serpent-people living in expansive tunnel systems under inaccessible deserts and remote mountains.
+2. An underwater species that breeds with humans in isolated communities.
+3. A devoted human culture worshipping an artificial consciousness trapped in a strange machine within an ancient tomb of metal.
+
+
+### Four of Spades
+![](_page_126_Picture_6.jpeg)
+
+You dream of a glimmering city that exists in many realities. Somehow you know it's not just a dream, but a real place of which you can only find obscure references in fading and crumbling scrolls that do not make much sense to your limited mortal mind.
+
+Perhaps if you find a way to access the marvellous city of wonders, many of your questions about the nature of the cosmos and the many entities that populate it would be answered.
+- Why do you obsess over the wondrous city and what do you imagine you could fi nd within its walls?
+- Why can't you fi nd the entrance in your reality and what have you tried in your fruitless search?
+- How does the city look and why do you suspect it may only be a feverish dream?
+
+#### What's the immortal city?
+1. A fortress at the centre of all realities, constructed by an alien civilisation that once dominated all planes.
+2. The last refuge of an ancient race that transcended death and holds many secrets.
+3. A reflection of the meeting place of the lords of the Higher Worlds, which are worshipped as gods in different forms through different realities.
+
+
+### Five of Spades
+![](_page_127_Picture_8.jpeg)
+
+You sacrifice a mortal soul to feed the ego of a powerful demon or dark god, trying to gain their capricious favour or avoid their menacing wrath.
+
+Either to clean an offense or to seek favour from the dark entity, such terrible acts of ritual murder do not go unnoticed by other mortals around you. For better or worse, your notoriety increases among mortals and immortal entities.
+
+- Who do you sacrifice and why have they been chosen?
+- Who is the dark entity and why do you seek to appease it or attract its favour?
+- Who notices your advances in the dark arts?
+
+#### What happens during the ritual?
+1. Two serpents come out of the mouth of the sacrifice. One of them consumes the other before becoming ash. Not a good omen.
+2. Fire doesn't kill the sacrifice, but it consumes their flesh with savage viciousness until there is nothing left but blackened bones. A good omen.
+3. The day turns night and the moon turns red. The corpse of the sacrifice speaks in an unknown language before turning to dust. What does it say to you?
+
+
+
+### Six of Spades
+![](_page_128_Picture_7.jpeg)
+
+You have the opportunity to look into the many futures that diverge from your present by tracing powerful runes in the ashes of an ancient forest, uttering forgotten words in the lost speech of an alien race, focusing your mind on a powerful artefact that touches many realities, or by any other means lost to the sages since a bygone age of wonders.
+- Where did you learn to scry the future?
+- What did you see in your future that disturbed you?
+- What did this scrying ritual cost you and why cannot be repeated in the same way?
+
+How do you read the future?
+1. Arcane visions granted by the mummified eye of the first serpent, which upon consumption submerges the sorcerer into a drugged stupor lasting weeks and revealing future truths and hidden realities.
+2. A conscious obsidian ball that can scry into many realities and only responds to its original owner, a sorcerer of Acheron long dead, but you can trick it once to serve you instead.
+3. An abhorrent offering to an elder god reveals truths to come in the agony of the screaming sacrifice.
+
+![](_page_129_Picture_0.jpeg)
+
+
+### Seven of Spades
+![](_page_130_Figure_8.jpeg)
+
+Your craving for power takes you to an ageless tomb or crumbling temple long lost beyond a natural barrier, now avoided by all civilised cultures due to ancient legends or real dangers.
+- Where are the ruins located and why are they diffi cult to reach?
+- Who dies in the journey?
+
+#### What are you looking for?
+1. The ruins of fabled Acheron and its ancient knowledge, an empire of demonic sorcerers that disappeared a millennia ago.
+2. The heart of a terrible beast, a crucial ingredient in the crafting of a key alchemical concoction in your search for immortality.
+3. The tomb of the first wizard to walk your world, as the legend says that consuming its mellified body can extend life.
+
+#### What horrors do you find?
+1. Savage tribes of pale men live underground and hunt all that moves above.
+2. An unwelcoming hive mind that emerges from millions of semi-intelligent arachnids living in the ruins.
+3. A creature living among statues, with snakes for hair and a petrifying glance.
+
+![](_page_117_Picture_0.jpeg)
+**"I was close to finding the unsettling secrets of an extinct civilisation among the ruins of ancient Qu -Tyr, a lost city half buried under e red wastes.**
+
+**But I failed; an arcane purple fire of sulphurous sme destroyed e dusty scro s and ki ed my servants, forcing me to march back to my tower empty handed.**
+
+**I blame Jagreen, my hated peer in sorcerous arts, which undoubtedly conspired against me with an envious heart.**
+
+**This has to end. I'll find him and end his life and his claim to immortality.**
+**- Atrahasis the Magnificent -**
+![](_page_117_Picture_4.jpeg)
+
+
+### Eight of Spades
+![](_page_132_Picture_9.jpeg)
+
+Either on your own initiative or because you are attacked, you are involved in a deadly sorcerous duel with another mage.
+- Who is the other sorcerer?
+- How did you meet?
+- Why did you become enemies?
+
+#### Who do you fight?
+1. An envoy of the Circle of Sequestered Mystics, sent to destroy you before you destroy them.
+2. A long-dead sorcerer king that rises from eternal sleep. Only a faint sliver of consciousness remains in the mummified body; enough to prove a challenge.
+3. An old fellow mage, even friend, and chief advisor to the queen. He is convinced you are a threat to the kingdom and the queen.
+
+#### Where do you fight? Where do you fight?
+1. In the steps of the Library of Tanelorn, where the history of ages past is recorded in languages lost to time by inhuman hands.
+2. In their tower of arcane contemplation, riddled with magical traps and mutated monstrosities.
+3. In the tomb of Nechrubel, who prophesied the end of this reality hundreds of years ago.
+
+![](_page_133_Picture_0.jpeg)
+
+
+### Nine of Spades
+![](_page_134_Picture_9.jpeg)
+
+You find an entrance to the plane of existence containing the unused material of unborn creations. Your mind shapes everything around you so your consciousness can endure the journey.
+
+Many souls have come to fail here, their ambition quenched by the sight of their dreams and passions. Their minds now trapped forever in a nightmare of melancholy; grim spirits in the void beyond reality.
+- What did you learn?
+- What did it cost you?
+
+#### How did you enter?
+1. A potent drug and a deep sleep releases the mind from earthly shackles.
+2. Through a gap in our reality at the end of the world.
+3. Through an ephemeral portal opened by a grim ritual learned from the infamous Book of Skelos.
+
+#### What challenges you?
+1. The hateful spirit of an old enemy finds you. It seeks your eternal doom.
+2. The entrance into this chaotic world closes and you must find another exit.
+3. A demon made of shadow challenges you to solve his riddle before releasing you from his grasp.
+
+![](_page_117_Picture_0.jpeg)
+**"The days are long in that hateful place. I could see the glimmering cities beyond the sea of despair, but I could not reach the safety of their walls and the Eternal Library within, where the secrets of ancient races are kept safe from the strife of mortals.**
+**I have failed and I was lost in that cursed plane. But a soul long lost in this reality offered a deal: she would show me where I can open a portal to return to my own world, but I must take her back with me, saving her from eventually fading into nothingness.**
+**I'm back in my reality now, trying to recover. Alone. The soul of my benefactor will fade in that forsaken plane and nobody will know of my failure."**
+**- Jagreen the Eternal -**
+![](_page_117_Picture_4.jpeg)
+
+
+### Ten of Spades
+![](_page_136_Picture_8.jpeg)
+You suffer the loathsome effect of foul rituals of rival sorcerers, ill words uttered by the alien throat of a demon, or unspeakable decrees by entities beyond our world that other mortals call gods. You are cursed.
+
+- Why were you cursed?
+- How do you overcome it?
+
+#### Who cursed you?
+1. A cabal of sorcerers you rejected in the past; not more than amateurs in the dark sorceries, but owners of a powerful artefact.
+2. A demon enraged by your arrogant quest to fi nd immortality as a simple mortal, destined to wither and die.
+3. An obscure god of a forsaken religion, as a favour to a faithful follower of the disappearing cult.
+
+#### What are the effects of the curse?
+1. Your soul is trapped in a common object, your body but a husk tended to by the most faithful servants that pray for your return.
+2. You become forgetful and can only remember your spells with signifi cant effort.
+3. You stir hate among all other mortals, weakening your bond with allies and boosting your enemies.
+
+![](_page_137_Picture_0.jpeg)
+
+
+### Jack of Spades
+![](_page_138_Figure_9.jpeg)
+
+You encounter a curious companion that follows you on your ambitious quest. Their skills will be useful in the arcane world of vengeful gods and foul demons you need to navigate before transcending to lichdom. But do not get too attached, they are dispensable, after all.
+- What is their name?
+- What do they look like?
+- How do you meet?
+- Why do they ally with you?
+
+#### Who is this curious character?
+- 1. An undead sorcerer from the time before the Cataclysm, devoid of most memories and powers.
+- 2. A witch or shaman that talks the language of the dead and can interpret many secrets of the past and present through old rituals of blood.
+- 3. The consciousness of an alien creature inhabiting a homunculus, brought here by a ritual between realities.
+
+#### What is special about them?
+- 1. Sent to you by a god of chaos to aid in your quest, but is growing to hate you.
+- 2. Has been cursed to never fi nd peace again.
+- 3. Can bring you knowledge you thought was lost forever.
+
+![](_page_139_Picture_0.jpeg)
+
+
+### Queen of Spades
+![](_page_140_Picture_8.jpeg)
+
+Your dwelling in dark arts and sorcerous research yields fruits in the form of powerful rituals, rare spells, dangerous agreements with otherworldly entities, or strange incantations lost in the tides of time.
+
+Such arcane powers can be used to trample your path in your search for immortality, but beware of their cost on your soul.
+- How did you learn this evil sorcery?
+- Why can you only use it once?
+- What challenge do you overcome with it?
+
+#### What arcane ritual of power do you use?
+1. A foul ritual to summon a demon lord, and many souls to bargain for its assistance - not for its obedience - in your mortal matters.
+2. An incantation using the first words of the first mortal to take dominion over the arcane. Forever lost in the aether between worlds after they are uttered again in this plane.
+3. A silent agreement with an elder god, who sends a creature of shadow for you to command and destroy your enemies. A devourer of souls from a plane that no longer exists.
+
+![](_page_141_Picture_0.jpeg)
+**"I found him. Jagreen was weak and recovering from some sort of astral travel, the perfect opportunity to finish his pitiful life.**
+
+**He fought to the end, causing great damage to my mortal shell and forcing me to use a secret I learned in the book of Skelos: I uttered the first words spoken by the first wizard and reality revealed its true nature before my eyes. I reached towards Jagreen and tore his soul apart from his body, now a dried husk in the steps of his hidden tower. Jagreen is no more.**
+
+**The secret words are lost now. Erased from my memory and the crumbling scrolls of Skelos by sorcery beyond my control.**
+
+**- Atrahasis the Magnificent -**
+![](_page_141_Picture_5.jpeg)
+
+
+### King of Spades
+![](_page_142_Picture_8.jpeg)
+
+A terrible unnatural event shakes the world or baleful arcane powers are directed towards you.
+- Did you cause this catastrophe?
+- How did you escape and what did it cost you?
+- How did you change after this event?
+
+1. Your mind gets lost during an astral projection or atavistic voyage to distant times. What were you looking for? How do you return to your body?
+2. Your own shadow separates and tries to possess your body with malevolent intent. What caused it?
+3. You age many years in a mere instant when you risk a ritual unknown to you. What were you trying to achieve? Where did you find the ritual?
+4. The blood moon, an unpredictable event that rarely happens. All those attune to the arcane suffer terrible pain that can leave them mad.
+5. An invasion of tiny invisible demons that disrupt your life and insist on following you. Why did they come to you?
+6. You read the wrong words in a forsaken tome, teleporting you to a far off place where a terrible beast lurks.
+
+![](_page_143_Picture_0.jpeg)
+
+
+## A Trail of Ink
+**"The ritual is ready. Human sacrifices are prostrated close to the death pit, which by the end of the ceremony will overflow with blood and corpses. The brazier is lit with herbs and the ancient runes are drawn on the floor. I prepare to read from the pages of Skelos while I breathe the smoke that will set me in a trance. I will be immortal by nightfall."
+**- Atrahasis The Magnificent -**
+
+The path to become a lich is a perilous one that you are free to record as you wish.
+
+You may decide to write everything about your character in a journal, where you describe in detail each of your experiences. Or you may prefer keeping short notes on the character sheet below and imagine the rest.
+
+Both are acceptable forms of play, and you can even mix them up as you wish; such as using your character sheet to remember things, but also writing down a few events that are extremely important to your character.
+
+Just have fun.
+
+![](_page_145_Picture_0.jpeg)
+
+![](_page_146_Figure_0.jpeg)
+
+
+## Card Table
+
+| Card Type    |  Effect   | Usage   |
+| :- | :- |:- |
+|   Ace  | Truth (Ace Card):<br>• Apply +1 to all challenges of the same nature.<br>• Use for Lichdom Ritual.    | Keep the card until Lichdom Ritual.   |
+| 2 to 5 | Narrative Events (Cards 2 to 5):<br>• No effect on game mechanics.<br>• Opportunity for world and character development. | Resolve event and discard.|
+| 6 | Scheming/Scrying (Card 6):<br>• Swap a card between Certain and Uncertain Futures.<br>• Pay cost with either 1 Doom, 1 Resolve, 1 Influence, or another Scheming/Scrying card. |  Keep and use between events, then discard.|
+| 7 to 9 | Adversity Events (Cards 7 to 9):<br>• Challenge difficulty is equal to the card number. Roll equal or above to succeed (2d6 ± Modifi ers).<br>• Success = Increase 1 Resolve.<br>• Failure = Decrease 1 Resolve. | Resolve event and discard. |
+| 10 | Plots and Curses (Card 10):<br>• Apply penalty of -2 to next challenge of the same nature. | Keep and apply to next challenge of the same nature. |
+| Jack | Companion (Jack Card):<br>• Apply +1 to all challenges of the same nature.<br>• Discard to neutralise a Catastrophe.<br>• Discard to apply +1d6 to any challenge. | Keep until discarded for extra effects. |
+| Queen | Influence (Queen Card):<br>• Discard to apply +2d6/+1d6 to challenges of the same/different nature. | Keep until used, then discard. |
+| King | Catastrophe (King Card):<br>• Increase 1 Doom.<br>• Decrease 1 Resolve.<br>• Two consecutive Arcane Catastrophes bring the end of times. | Resolve event and shuffle back into the deck. |
+
+
+![](_page_150_Picture_0.jpeg)
+
+### Reject Death Embrace Power
+
+Lichdom is a solo roleplaying game about the ambitious journey of a sorcerer towards immortality, about the careful research to find lost knowledge in crumbling tombs and half buried cities, about overcoming the deathly perils that plague the world by sacrificing your own self, and about finding a way to keep your soul tied to this world at all costs before death comes knocking on your door.
+
+###### **Your time is running out.**
+
